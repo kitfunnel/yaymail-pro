@@ -1,0 +1,13 @@
+2021-12-22 09:49:39 [ERROR] SYSTEM ERROR:0 : Argument 1 passed to WC_Connect_Compatibility_WC30::get_order_id() must be an instance of WC_Order, string given, called in /Users/macbook/Sites/wp_wc/wp-content/plugins/YayMail/includes/MailBuilder/YaymailElement.php on line 528
+/Users/macbook/Sites/wp_wc/wp-content/plugins/woocommerce-services/classes/class-wc-connect-compatibility-wc30.php(22)
+#0 /Users/macbook/Sites/wp_wc/wp-content/plugins/YayMail/includes/MailBuilder/YaymailElement.php(528): WC_Connect_Compatibility_WC30->get_order_id('SampleOrder')
+#1 /Users/macbook/Sites/wp_wc/wp-includes/class-wp-hook.php(303): YayMail\MailBuilder\YaymailElement->yaymail_shipping_tax_shipment_tracking(Array, Array, Array, '4721b3ba-04a6-4...', 666, false)
+#2 /Users/macbook/Sites/wp_wc/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /Users/macbook/Sites/wp_wc/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /Users/macbook/Sites/wp_wc/wp-content/plugins/YayMail/includes/Ajax.php(153): do_action('YaymailShipping...', Array, Array, Array, '4721b3ba-04a6-4...', 666, false)
+#5 /Users/macbook/Sites/wp_wc/wp-content/plugins/YayMail/includes/Ajax.php(271): YayMail\Ajax::getHtmlByElements(666, Array)
+#6 /Users/macbook/Sites/wp_wc/wp-includes/class-wp-hook.php(303): YayMail\Ajax->sendTestMail('')
+#7 /Users/macbook/Sites/wp_wc/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#8 /Users/macbook/Sites/wp_wc/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#9 /Users/macbook/Sites/wp_wc/wp-admin/admin-ajax.php(187): do_action('wp_ajax_yaymail...')
+#10 {main}
