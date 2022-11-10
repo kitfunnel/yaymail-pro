@@ -1,0 +1,8821 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YayMail Pro - WooCommerce Email Customizer\n"
+"POT-Creation-Date: 2021-12-23 16:01+0700\n"
+"PO-Revision-Date: 2021-12-23 15:55+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: yaymail.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: apps\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+"X-Poedit-SearchPathExcluded-3: includes/Templates/DefaultTemplate/"
+"OrderStatus.php\n"
+"X-Poedit-SearchPathExcluded-4: views/templates/emails/email-order-details."
+"php\n"
+
+#: includes/Ajax.php:59
+msgid "Export successfully."
+msgstr ""
+
+#: includes/Ajax.php:171 includes/Ajax.php:250 includes/Ajax.php:344
+#: includes/Ajax.php:471 includes/Ajax.php:520 includes/Ajax.php:705
+#: includes/Ajax.php:735 includes/Ajax.php:758 includes/Helper/Helper.php:12
+#: includes/MailBuilder/Shortcodes.php:663
+msgid "Nonce is invalid"
+msgstr ""
+
+#: includes/Ajax.php:188
+msgid "Plugin installation successful."
+msgstr ""
+
+#: includes/Ajax.php:257
+msgid "Invalid email format!"
+msgstr ""
+
+#: includes/Ajax.php:286
+msgid "Email has been sent."
+msgstr ""
+
+#: includes/Ajax.php:293 includes/Ajax.php:455 includes/Ajax.php:500
+#: includes/Ajax.php:503 includes/Ajax.php:577
+msgid "Template not Exists!."
+msgstr ""
+
+#: includes/Ajax.php:297
+msgid "Error send mail!"
+msgstr ""
+
+#: includes/Ajax.php:349 includes/Ajax.php:482 includes/Ajax.php:552
+#: includes/Ajax.php:572 includes/MailBuilder/Shortcodes.php:789
+#: includes/Page/Source/DefaultElement.php:12
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/PartiallyShipped.php:26
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/ShippedOrder.php:26
+#: includes/Templates/DefaultTemplate/CancelledOrder.php:30
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:50
+#: includes/Templates/DefaultTemplate/CustomerCompletedOrder.php:28
+#: includes/Templates/DefaultTemplate/CustomerInvoice.php:30
+#: includes/Templates/DefaultTemplate/CustomerNote.php:29
+#: includes/Templates/DefaultTemplate/CustomerOnHoldOrder.php:28
+#: includes/Templates/DefaultTemplate/CustomerProcessingOrder.php:30
+#: includes/Templates/DefaultTemplate/CustomerRefundedOrder.php:28
+#: includes/Templates/DefaultTemplate/FailedOrder.php:29
+#: includes/Templates/DefaultTemplate/NewOrder.php:27
+#: views/templates/emails/email-billing-shipping-address-title.php:11
+#: views/templates/emails/email-billing-shipping-address.php:21
+msgid "Shipping Address"
+msgstr ""
+
+#: includes/Ajax.php:350 includes/Ajax.php:483 includes/Ajax.php:553
+#: includes/Ajax.php:573 includes/MailBuilder/Shortcodes.php:790
+#: includes/Page/Source/DefaultElement.php:13
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/PartiallyShipped.php:27
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/ShippedOrder.php:27
+#: includes/Templates/DefaultTemplate/CancelledOrder.php:31
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:51
+#: includes/Templates/DefaultTemplate/CustomerCompletedOrder.php:29
+#: includes/Templates/DefaultTemplate/CustomerInvoice.php:31
+#: includes/Templates/DefaultTemplate/CustomerNote.php:30
+#: includes/Templates/DefaultTemplate/CustomerOnHoldOrder.php:29
+#: includes/Templates/DefaultTemplate/CustomerProcessingOrder.php:31
+#: includes/Templates/DefaultTemplate/CustomerRefundedOrder.php:29
+#: includes/Templates/DefaultTemplate/FailedOrder.php:30
+#: includes/Templates/DefaultTemplate/NewOrder.php:28
+#: views/templates/emails/email-billing-shipping-address-title.php:12
+#: views/templates/emails/email-billing-shipping-address.php:14
+msgid "Billing Address"
+msgstr ""
+
+#: includes/Ajax.php:453
+msgid "Email has been saved."
+msgstr ""
+
+#: includes/Ajax.php:458 includes/Ajax.php:506
+msgid "Error save data."
+msgstr ""
+
+#: includes/Ajax.php:495
+msgid "Copied Template successfully."
+msgstr ""
+
+#: includes/Ajax.php:528 includes/Helper/ActivePlugin.php:48
+#: includes/Helper/ActivePlugin.php:75
+#: views/templates/emails/email-order-details-border.php:142
+#: views/templates/emails/email-order-details.php:113
+#: views/templates/emails/email-order-item-download.php:16
+#: views/templates/emails/email-order-item-download.php:31
+#: views/templates/emails/email-order-items.php:26
+#: views/templates/emails/sampleOrder/email-order-details-border.php:27
+#: views/templates/emails/sampleOrder/email-order-details.php:23
+#: views/templates/emails/sampleOrder/email-order-item-download.php:16
+#: views/templates/emails/sampleOrder/email-order-item-download.php:28
+msgid "Product"
+msgstr ""
+
+#: includes/Ajax.php:529 includes/Helper/ActivePlugin.php:49
+#: includes/Helper/ActivePlugin.php:76
+#: views/templates/emails/email-order-details-border.php:145
+#: views/templates/emails/email-order-details.php:116
+#: views/templates/emails/sampleOrder/email-order-details-border.php:30
+#: views/templates/emails/sampleOrder/email-order-details.php:26
+msgid "Quantity"
+msgstr ""
+
+#: includes/Ajax.php:530 includes/Ajax.php:540
+#: includes/Helper/ActivePlugin.php:50 includes/Helper/ActivePlugin.php:60
+#: includes/Helper/ActivePlugin.php:77 includes/Helper/ActivePlugin.php:87
+#: views/templates/emails/email-order-details-border.php:148
+#: views/templates/emails/email-order-details.php:119
+#: views/templates/emails/sampleOrder/email-order-details-border.php:33
+#: views/templates/emails/sampleOrder/email-order-details.php:29
+msgid "Price"
+msgstr ""
+
+#: includes/Ajax.php:531 includes/Helper/ActivePlugin.php:51
+#: includes/Helper/ActivePlugin.php:78
+#: views/templates/emails/sampleOrder/email-order-details-border.php:51
+msgid "Subtotal:"
+msgstr ""
+
+#: includes/Ajax.php:532 includes/Helper/ActivePlugin.php:52
+#: includes/Helper/ActivePlugin.php:79
+#: views/templates/emails/sampleOrder/email-order-details-border.php:59
+#: views/templates/emails/sampleOrder/email-order-details.php:49
+#: views/templates/emails/sampleOrder/email-order-details.php:68
+msgid "Payment method:"
+msgstr ""
+
+#: includes/Ajax.php:533 includes/Helper/ActivePlugin.php:53
+#: includes/Helper/ActivePlugin.php:80
+#: views/templates/emails/email-order-details-border-content.php:86
+#: views/templates/emails/email-order-details-border-content.php:97
+#: views/templates/emails/email-order-details-border-content.php:108
+#: views/templates/emails/email-order-details-border-content.php:125
+msgid "Order fully refunded."
+msgstr ""
+
+#: includes/Ajax.php:534 includes/Helper/ActivePlugin.php:54
+#: includes/Helper/ActivePlugin.php:81
+#: views/templates/emails/sampleOrder/email-order-details-border.php:67
+#: views/templates/emails/sampleOrder/email-order-details.php:57
+#: views/templates/emails/sampleOrder/email-order-details.php:76
+msgid "Total:"
+msgstr ""
+
+#: includes/Ajax.php:535 includes/Helper/ActivePlugin.php:55
+#: includes/Helper/ActivePlugin.php:82
+msgid "ID"
+msgstr ""
+
+#: includes/Ajax.php:536 includes/Helper/ActivePlugin.php:56
+#: includes/Helper/ActivePlugin.php:83
+msgid "Start date"
+msgstr ""
+
+#: includes/Ajax.php:537 includes/Helper/ActivePlugin.php:57
+#: includes/Helper/ActivePlugin.php:84
+#: views/templates/emails/fooevents_ticket_details.php:45
+msgid "End date"
+msgstr ""
+
+#: includes/Ajax.php:538 includes/Helper/ActivePlugin.php:58
+#: includes/Helper/ActivePlugin.php:85
+msgid "Recurring total"
+msgstr ""
+
+#: includes/Ajax.php:539 includes/Helper/ActivePlugin.php:59
+#: includes/Helper/ActivePlugin.php:86
+msgid "Subscription"
+msgstr ""
+
+#: includes/Ajax.php:541 includes/Helper/ActivePlugin.php:61
+#: includes/Helper/ActivePlugin.php:88
+msgid "Last Order Date"
+msgstr ""
+
+#: includes/Ajax.php:542 includes/Helper/ActivePlugin.php:62
+#: includes/Helper/ActivePlugin.php:89
+msgid "End of Prepaid Term"
+msgstr ""
+
+#: includes/Ajax.php:543 includes/Helper/ActivePlugin.php:63
+#: includes/Helper/ActivePlugin.php:90
+msgid "Date Suspended"
+msgstr ""
+
+#: includes/Ajax.php:565 includes/Ajax.php:575
+msgid "Template reset successfully."
+msgstr ""
+
+#: includes/Ajax.php:581
+msgid "Error Reset Template!"
+msgstr ""
+
+#: includes/Ajax.php:683
+msgid "Import Failed."
+msgstr ""
+
+#: includes/Ajax.php:685
+msgid "Imported successfully."
+msgstr ""
+
+#: includes/Ajax.php:687
+msgid "File not found."
+msgstr ""
+
+#: includes/Ajax.php:690
+msgid "File not correct format."
+msgstr ""
+
+#: includes/Ajax.php:693
+msgid "Please upload 1 file to import."
+msgstr ""
+
+#: includes/Ajax.php:719 includes/Ajax.php:743
+msgid "Settings saved."
+msgstr ""
+
+#: includes/Ajax.php:721 includes/Ajax.php:745 includes/Ajax.php:773
+msgid "Settings Failed!."
+msgstr ""
+
+#: includes/Ajax.php:771
+msgid "Language changed. Please wait for reloading page"
+msgstr ""
+
+#: includes/Fallback.php:11
+msgid ""
+"It looks like you have another YayMail version installed, please delete it "
+"before activating this new version. All current settings and data are still "
+"preserved."
+msgstr ""
+
+#: includes/Fallback.php:12
+msgid "Read more details."
+msgstr ""
+
+#: includes/Helper/LogHelper.php:40
+msgid "SYSTEM ERROR:"
+msgstr ""
+
+#: includes/Helper/LogHelper.php:52
+msgid "log-"
+msgstr ""
+
+#: includes/I18n.php:36
+msgid "ELEMENTS"
+msgstr ""
+
+#. translators: woocommerce-pip.
+#: includes/MailBuilder/PIPTemplate.php:111
+#, php-format
+msgid "[%1$s] Packing List for invoice %2$s - order %3$s from %4$s"
+msgstr ""
+
+#. translators: woocommerce-pip.
+#: includes/MailBuilder/PIPTemplate.php:147
+#, php-format
+msgid "%d order"
+msgid_plural "%d orders"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: woocommerce-pip.
+#: includes/MailBuilder/PIPTemplate.php:150
+#, php-format
+msgid "[%1$s] Pick List for %2$s"
+msgstr ""
+
+#. translators: woocommerce-pip.
+#: includes/MailBuilder/PIPTemplate.php:239
+#, php-format
+msgid "[%1$s] Invoice %2$s for order %3$s from %4$s"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:543
+#: includes/MailBuilder/Shortcodes.php:1137
+#: includes/MailBuilder/Shortcodes.php:1418
+msgid "Click here to reset your password"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:940
+#: includes/MailBuilder/Shortcodes.php:946
+#: includes/MailBuilder/Shortcodes.php:948
+#: includes/MailBuilder/Shortcodes.php:1354
+#: includes/MailBuilder/Shortcodes.php:1360
+#: includes/MailBuilder/Shortcodes.php:1362
+msgid "YayMail"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:941
+#: includes/MailBuilder/Shortcodes.php:949
+#: includes/MailBuilder/Shortcodes.php:1355
+#: includes/MailBuilder/Shortcodes.php:1363
+#: includes/MailBuilder/Shortcodes.php:1375
+msgid "1"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:944
+#: includes/MailBuilder/Shortcodes.php:945
+#: includes/MailBuilder/Shortcodes.php:1358
+#: includes/MailBuilder/Shortcodes.php:1359
+msgid "yaymail@gmail.com"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:967
+#: includes/MailBuilder/Shortcodes.php:1374
+msgid "Order"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:989
+#: includes/MailBuilder/Shortcodes.php:1383
+msgid "Payment page"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1196
+msgid "Your Order"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1260
+#: includes/MailBuilder/Shortcodes.php:1496
+msgid "Pay the banking ticket"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1382
+#: views/templates/emails/email-order-details-border-before.php:56
+#: views/templates/emails/email-order-details-border.php:59
+#: views/templates/emails/email-order-details.php:47
+#: views/templates/emails/sampleOrder/email-order-details-border-content.php:49
+#: views/templates/emails/sampleOrder/email-order-details-border.php:62
+#: views/templates/emails/sampleOrder/email-order-details.php:52
+#: views/templates/emails/sampleOrder/email-order-details.php:71
+msgid "Direct bank transfer"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1385
+msgid "Check payments"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1389
+msgid "333"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1391
+#: includes/MailBuilder/Shortcodes.php:1392
+msgid "755 E North Grove Rd"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1393
+msgid "Mayville, Michigan"
+msgstr ""
+
+#. Author of the plugin/theme
+#: includes/MailBuilder/Shortcodes.php:1394
+#: includes/MailBuilder/Shortcodes.php:1408
+msgid "YayCommerce"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1396
+#: includes/MailBuilder/Shortcodes.php:1411
+msgid "John"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1397
+#: includes/MailBuilder/Shortcodes.php:1412
+msgid "Doe"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1399
+#: includes/MailBuilder/Shortcodes.php:1414
+msgid "48744"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1400
+#: includes/MailBuilder/Shortcodes.php:1415
+msgid "Random"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1401
+#: includes/MailBuilder/Shortcodes.php:1413
+msgid "(910) 529-1147"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1405
+#: includes/MailBuilder/Shortcodes.php:1406
+msgid "7400 Edwards Rd"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1407
+msgid "Edwards Rd"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1410
+msgid "johndoe@gmail.com"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1422
+msgid "G(UAM1(eIX#G"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1428
+msgid "note"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1429
+msgid "notes"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1430
+msgid "provided note"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1445
+#: includes/MailBuilder/Shortcodes.php:1446
+msgid "sample status"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1451
+msgid "yaymail_code"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:2439
+#: includes/MailBuilder/Shortcodes.php:2442
+msgid "Live track your order"
+msgstr ""
+
+#. translators: WC Order Number, New Status & Date on which the order was placed.
+#: includes/MailBuilder/WooTemplate.php:153
+#, php-format
+msgid "[%1$s] Order #%2$s status changed to %3$s - %4$s"
+msgstr ""
+
+#. translators: none.
+#: includes/MailBuilder/WooTemplate.php:315
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:6
+msgid "Afghanistan"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:7
+msgid "Åland Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:8
+msgid "Albania"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:9
+msgid "Algeria"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:10
+msgid "American Samoa"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:11
+msgid "Andorra"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:12
+msgid "Angola"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:13
+msgid "Anguilla"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:14
+msgid "Antarctica"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:15
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:16
+msgid "Argentina"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:17
+msgid "Armenia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:18
+msgid "Aruba"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:19
+msgid "Australia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:20
+msgid "Austria"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:21
+msgid "Azerbaijan"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:22
+msgid "Bahamas"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:23
+msgid "Bahrain"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:24
+msgid "Bangladesh"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:25
+msgid "Barbados"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:26
+msgid "Belarus"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:27
+msgid "Belgium"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:28
+msgid "Belau"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:29
+msgid "Belize"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:30
+msgid "Benin"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:31
+msgid "Bermuda"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:32
+msgid "Bhutan"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:33
+msgid "Bolivia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:34
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:35
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:36
+msgid "Botswana"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:37
+msgid "Bouvet Island"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:38
+msgid "Brazil"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:39
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:40
+msgid "Brunei"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:41
+msgid "Bulgaria"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:42
+msgid "Burkina Faso"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:43
+msgid "Burundi"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:44
+msgid "Cambodia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:45
+msgid "Cameroon"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:46
+msgid "Canada"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:47
+msgid "Cape Verde"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:48
+msgid "Cayman Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:49
+msgid "Central African Republic"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:50
+msgid "Chad"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:51
+msgid "Chile"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:52
+msgid "China"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:53
+msgid "Christmas Island"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:54
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:55
+msgid "Colombia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:56
+msgid "Comoros"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:57
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:58
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:59
+msgid "Cook Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:60
+msgid "Costa Rica"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:61
+msgid "Croatia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:62
+msgid "Cuba"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:63
+msgid "Cura&ccedil;ao"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:64
+msgid "Cyprus"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:65
+msgid "Czech Republic"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:66
+msgid "Denmark"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:67
+msgid "Djibouti"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:68
+msgid "Dominica"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:69
+msgid "Dominican Republic"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:70
+msgid "Ecuador"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:71
+msgid "Egypt"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:72
+msgid "El Salvador"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:73
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:74
+msgid "Eritrea"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:75
+msgid "Estonia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:76
+msgid "Ethiopia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:77
+msgid "Falkland Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:78
+msgid "Faroe Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:79
+msgid "Fiji"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:80
+msgid "Finland"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:81
+msgid "France"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:82
+msgid "French Guiana"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:83
+msgid "French Polynesia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:84
+msgid "French Southern Territories"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:85
+msgid "Gabon"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:86
+msgid "Gambia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:87
+msgid "Georgia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:88
+msgid "Germany"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:89
+msgid "Ghana"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:90
+msgid "Gibraltar"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:91
+msgid "Greece"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:92
+msgid "Greenland"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:93
+msgid "Grenada"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:94
+msgid "Guadeloupe"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:95
+msgid "Guam"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:96
+#: includes/MailBuilder/languages/states.php:511
+msgid "Guatemala"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:97
+msgid "Guernsey"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:98
+msgid "Guinea"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:99
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:100
+msgid "Guyana"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:101
+msgid "Haiti"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:102
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:103
+msgid "Honduras"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:104
+msgid "Hong Kong"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:105
+msgid "Hungary"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:106
+msgid "Iceland"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:107
+msgid "India"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:108
+msgid "Indonesia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:109
+msgid "Iran"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:110
+msgid "Iraq"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:111
+msgid "Ireland"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:112
+msgid "Isle of Man"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:113
+msgid "Israel"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:114
+msgid "Italy"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:115
+msgid "Ivory Coast"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:116
+msgid "Jamaica"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:117
+msgid "Japan"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:118
+msgid "Jersey"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:119
+msgid "Jordan"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:120
+msgid "Kazakhstan"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:121
+msgid "Kenya"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:122
+msgid "Kiribati"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:123
+msgid "Kuwait"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:124
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:125
+msgid "Laos"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:126
+msgid "Latvia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:127
+msgid "Lebanon"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:128
+msgid "Lesotho"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:129
+msgid "Liberia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:130
+msgid "Libya"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:131
+msgid "Liechtenstein"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:132
+msgid "Lithuania"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:133
+msgid "Luxembourg"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:134
+msgid "Macao"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:135
+msgid "North Macedonia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:136
+msgid "Madagascar"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:137
+msgid "Malawi"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:138
+msgid "Malaysia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:139
+msgid "Maldives"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:140
+msgid "Mali"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:141
+msgid "Malta"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:142
+msgid "Marshall Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:143
+msgid "Martinique"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:144
+msgid "Mauritania"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:145
+msgid "Mauritius"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:146
+msgid "Mayotte"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:147
+msgid "Mexico"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:148
+msgid "Micronesia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:149
+msgid "Moldova"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:150
+msgid "Monaco"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:151
+msgid "Mongolia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:152
+msgid "Montenegro"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:153
+msgid "Montserrat"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:154
+msgid "Morocco"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:155
+msgid "Mozambique"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:156
+msgid "Myanmar"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:157
+msgid "Namibia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:158
+msgid "Nauru"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:159
+msgid "Nepal"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:160
+msgid "Netherlands"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:161
+msgid "New Caledonia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:162
+msgid "New Zealand"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:163
+msgid "Nicaragua"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:164
+#: includes/MailBuilder/languages/states.php:1112
+msgid "Niger"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:165
+msgid "Nigeria"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:166
+msgid "Niue"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:167
+msgid "Norfolk Island"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:168
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:169
+msgid "North Korea"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:170
+msgid "Norway"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:171
+msgid "Oman"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:172
+msgid "Pakistan"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:173
+msgid "Palestinian Territory"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:174
+msgid "Panama"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:175
+msgid "Papua New Guinea"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:176
+msgid "Paraguay"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:177
+msgid "Peru"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:178
+msgid "Philippines"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:179
+msgid "Pitcairn"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:180
+msgid "Poland"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:181
+msgid "Portugal"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:182
+msgid "Puerto Rico"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:183
+msgid "Qatar"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:184
+msgid "Reunion"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:185
+msgid "Romania"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:186
+msgid "Russia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:187
+msgid "Rwanda"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:188
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:189
+msgid "Saint Helena"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:190
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:191
+msgid "Saint Lucia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:192
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:193
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:194
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:195
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:196
+msgid "San Marino"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:197
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:198
+msgid "Saudi Arabia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:199
+msgid "Senegal"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:200
+msgid "Serbia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:201
+msgid "Seychelles"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:202
+msgid "Sierra Leone"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:203
+msgid "Singapore"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:204
+msgid "Slovakia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:205
+msgid "Slovenia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:206
+msgid "Solomon Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:207
+msgid "Somalia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:208
+msgid "South Africa"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:209
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:210
+msgid "South Korea"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:211
+msgid "South Sudan"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:212
+msgid "Spain"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:213
+msgid "Sri Lanka"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:214
+msgid "Sudan"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:215
+msgid "Suriname"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:216
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:217
+msgid "Swaziland"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:218
+msgid "Sweden"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:219
+msgid "Switzerland"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:220
+msgid "Syria"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:221
+msgid "Taiwan"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:222
+msgid "Tajikistan"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:223
+msgid "Tanzania"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:224
+msgid "Thailand"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:225
+msgid "Timor-Leste"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:226
+msgid "Togo"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:227
+msgid "Tokelau"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:228
+msgid "Tonga"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:229
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:230
+msgid "Tunisia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:231
+msgid "Turkey"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:232
+msgid "Turkmenistan"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:233
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:234
+msgid "Tuvalu"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:235
+msgid "Uganda"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:236
+msgid "Ukraine"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:237
+msgid "United Arab Emirates"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:238
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:239
+msgid "United States (US)"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:240
+msgid "United States (US) Minor Outlying Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:241
+msgid "Uruguay"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:242
+msgid "Uzbekistan"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:243
+msgid "Vanuatu"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:244
+msgid "Vatican"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:245
+msgid "Venezuela"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:246
+msgid "Vietnam"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:247
+msgid "Virgin Islands (British)"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:248
+msgid "Virgin Islands (US)"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:249
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:250
+msgid "Western Sahara"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:251
+msgid "Samoa"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:252
+msgid "Yemen"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:253
+msgid "Zambia"
+msgstr ""
+
+#: includes/MailBuilder/languages/countries.php:254
+msgid "Zimbabwe"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:8
+msgid "Bengo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:9
+msgid "Benguela"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:10
+msgid "Bié"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:11
+msgid "Cabinda"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:12
+msgid "Cunene"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:13
+msgid "Huambo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:14
+msgid "Huíla"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:15
+msgid "Kuando Kubango"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:16
+msgid "Kwanza-Norte"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:17
+msgid "Kwanza-Sul"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:18
+msgid "Luanda"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:19
+msgid "Lunda-Norte"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:20
+msgid "Lunda-Sul"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:21
+msgid "Malanje"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:22
+msgid "Moxico"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:23
+msgid "Namibe"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:24
+msgid "Uíge"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:25
+msgid "Zaire"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:28
+msgid "Ciudad Autónoma de Buenos Aires"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:29
+msgid "Buenos Aires"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:30
+msgid "Catamarca"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:31
+msgid "Chaco"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:32
+msgid "Chubut"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:33
+#: includes/MailBuilder/languages/states.php:430
+msgid "Córdoba"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:34
+msgid "Corrientes"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:35
+msgid "Entre Ríos"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:36
+msgid "Formosa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:37
+msgid "Jujuy"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:38
+msgid "La Pampa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:39
+#: includes/MailBuilder/languages/states.php:439
+msgid "La Rioja"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:40
+msgid "Mendoza"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:41
+#: includes/MailBuilder/languages/states.php:1298
+msgid "Misiones"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:42
+msgid "Neuquén"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:43
+msgid "Río Negro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:44
+msgid "Salta"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:45
+#: includes/MailBuilder/languages/states.php:320
+msgid "San Juan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:46
+msgid "San Luis"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:47
+#: includes/MailBuilder/languages/states.php:186
+msgid "Santa Cruz"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:48
+msgid "Santa Fe"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:49
+msgid "Santiago del Estero"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:50
+msgid "Tierra del Fuego"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:51
+msgid "Tucumán"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:55
+msgid "Australian Capital Territory"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:56
+msgid "New South Wales"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:57
+msgid "Northern Territory"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:58
+msgid "Queensland"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:59
+msgid "South Australia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:60
+msgid "Tasmania"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:61
+msgid "Victoria"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:62
+msgid "Western Australia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:66
+msgid "Bagerhat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:67
+msgid "Bandarban"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:68
+msgid "Barguna"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:69
+msgid "Barishal"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:70
+msgid "Bhola"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:71
+msgid "Bogura"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:72
+msgid "Brahmanbaria"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:73
+msgid "Chandpur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:74
+msgid "Chattogram"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:75
+msgid "Chuadanga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:76
+msgid "Cox's Bazar"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:77
+msgid "Cumilla"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:78
+msgid "Dhaka"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:79
+msgid "Dinajpur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:80
+msgid "Faridpur "
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:81
+msgid "Feni"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:82
+msgid "Gaibandha"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:83
+msgid "Gazipur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:84
+msgid "Gopalganj"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:85
+msgid "Habiganj"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:86
+msgid "Jamalpur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:87
+msgid "Jashore"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:88
+msgid "Jhalokati"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:89
+msgid "Jhenaidah"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:90
+msgid "Joypurhat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:91
+msgid "Khagrachhari"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:92
+msgid "Khulna"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:93
+msgid "Kishoreganj"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:94
+msgid "Kurigram"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:95
+msgid "Kushtia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:96
+msgid "Lakshmipur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:97
+msgid "Lalmonirhat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:98
+msgid "Madaripur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:99
+msgid "Magura"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:100
+msgid "Manikganj "
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:101
+msgid "Meherpur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:102
+msgid "Moulvibazar"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:103
+msgid "Munshiganj"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:104
+msgid "Mymensingh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:105
+msgid "Naogaon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:106
+msgid "Narail"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:107
+msgid "Narayanganj"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:108
+msgid "Narsingdi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:109
+msgid "Natore"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:110
+msgid "Nawabganj"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:111
+msgid "Netrakona"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:112
+msgid "Nilphamari"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:113
+msgid "Noakhali"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:114
+msgid "Pabna"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:115
+msgid "Panchagarh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:116
+msgid "Patuakhali"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:117
+msgid "Pirojpur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:118
+msgid "Rajbari"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:119
+msgid "Rajshahi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:120
+msgid "Rangamati"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:121
+msgid "Rangpur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:122
+msgid "Satkhira"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:123
+msgid "Shariatpur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:124
+msgid "Sherpur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:125
+msgid "Sirajganj"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:126
+msgid "Sunamganj"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:127
+msgid "Sylhet"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:128
+msgid "Tangail"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:129
+msgid "Thakurgaon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:133
+msgid "Blagoevgrad"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:134
+msgid "Burgas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:135
+msgid "Dobrich"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:136
+msgid "Gabrovo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:137
+msgid "Haskovo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:138
+msgid "Kardzhali"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:139
+msgid "Kyustendil"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:140
+msgid "Lovech"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:141
+#: includes/MailBuilder/languages/states.php:1755
+msgid "Montana"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:142
+msgid "Pazardzhik"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:143
+msgid "Pernik"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:144
+msgid "Pleven"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:145
+msgid "Plovdiv"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:146
+msgid "Razgrad"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:147
+msgid "Ruse"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:148
+msgid "Shumen"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:149
+msgid "Silistra"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:150
+msgid "Sliven"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:151
+msgid "Smolyan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:152
+msgid "Sofia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:153
+msgid "Sofia-Grad"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:154
+msgid "Stara Zagora"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:155
+msgid "Targovishte"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:156
+msgid "Varna"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:157
+msgid "Veliko Tarnovo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:158
+msgid "Vidin"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:159
+msgid "Vratsa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:160
+msgid "Yambol"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:165
+msgid "Alibori"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:166
+msgid "Atakora"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:167
+msgid "Atlantique"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:168
+msgid "Borgou"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:169
+msgid "Collines"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:170
+msgid "Kouffo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:171
+msgid "Donga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:172
+msgid "Littoral"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:173
+msgid "Mono"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:174
+msgid "Ouémé"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:175
+#: includes/MailBuilder/languages/states.php:1117
+msgid "Plateau"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:176
+msgid "Zou"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:179
+msgid "Chuquisaca"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:180
+msgid "Beni"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:181
+msgid "Cochabamba"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:182
+msgid "La Paz"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:183
+msgid "Oruro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:184
+msgid "Pando"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:185
+msgid "Potosí"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:187
+msgid "Tarija"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:190
+msgid "Acre"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:191
+msgid "Alagoas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:192
+msgid "Amapá"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:193
+#: includes/MailBuilder/languages/states.php:1163
+#: includes/MailBuilder/languages/states.php:1809
+msgid "Amazonas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:194
+msgid "Bahia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:195
+msgid "Ceará"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:196
+msgid "Distrito Federal"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:197
+msgid "Espírito Santo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:198
+msgid "Goiás"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:199
+msgid "Maranhão"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:200
+msgid "Mato Grosso"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:201
+msgid "Mato Grosso do Sul"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:202
+msgid "Minas Gerais"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:203
+msgid "Pará"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:204
+msgid "Paraíba"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:205
+msgid "Paraná"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:206
+msgid "Pernambuco"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:207
+msgid "Piauí"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:208
+msgid "Rio de Janeiro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:209
+msgid "Rio Grande do Norte"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:210
+msgid "Rio Grande do Sul"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:211
+msgid "Rondônia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:212
+msgid "Roraima"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:213
+msgid "Santa Catarina"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:214
+msgid "São Paulo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:215
+msgid "Sergipe"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:216
+msgid "Tocantins"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:219
+msgid "Alberta"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:220
+msgid "British Columbia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:221
+msgid "Manitoba"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:222
+msgid "New Brunswick"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:223
+msgid "Newfoundland and Labrador"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:224
+msgid "Northwest Territories"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:225
+msgid "Nova Scotia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:226
+msgid "Nunavut"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:227
+msgid "Ontario"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:228
+msgid "Prince Edward Island"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:229
+msgid "Quebec"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:230
+msgid "Saskatchewan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:231
+msgid "Yukon Territory"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:234
+msgid "Aargau"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:235
+msgid "Appenzell Ausserrhoden"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:236
+msgid "Appenzell Innerrhoden"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:237
+msgid "Basel-Landschaft"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:238
+msgid "Basel-Stadt"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:239
+msgid "Bern"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:240
+msgid "Fribourg"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:241
+msgid "Geneva"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:242
+msgid "Glarus"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:243
+msgid "Graubünden"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:244
+msgid "Jura"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:245
+msgid "Luzern"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:246
+msgid "Neuchâtel"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:247
+msgid "Nidwalden"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:248
+msgid "Obwalden"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:249
+msgid "Schaffhausen"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:250
+msgid "Schwyz"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:251
+msgid "Solothurn"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:252
+msgid "St. Gallen"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:253
+msgid "Thurgau"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:254
+msgid "Ticino"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:255
+msgid "Uri"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:256
+msgid "Valais"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:257
+msgid "Vaud"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:258
+msgid "Zug"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:259
+msgid "Zürich"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:262
+msgid "Yunnan / 云南"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:263
+msgid "Beijing / 北京"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:264
+msgid "Tianjin / 天津"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:265
+msgid "Hebei / 河北"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:266
+msgid "Shanxi / 山西"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:267
+msgid "Inner Mongolia / 內蒙古"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:268
+msgid "Liaoning / 辽宁"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:269
+msgid "Jilin / 吉林"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:270
+msgid "Heilongjiang / 黑龙江"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:271
+msgid "Shanghai / 上海"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:272
+msgid "Jiangsu / 江苏"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:273
+msgid "Zhejiang / 浙江"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:274
+msgid "Anhui / 安徽"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:275
+msgid "Fujian / 福建"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:276
+msgid "Jiangxi / 江西"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:277
+msgid "Shandong / 山东"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:278
+msgid "Henan / 河南"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:279
+msgid "Hubei / 湖北"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:280
+msgid "Hunan / 湖南"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:281
+msgid "Guangdong / 广东"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:282
+msgid "Guangxi Zhuang / 广西壮族"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:283
+msgid "Hainan / 海南"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:284
+msgid "Chongqing / 重庆"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:285
+msgid "Sichuan / 四川"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:286
+msgid "Guizhou / 贵州"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:287
+msgid "Shaanxi / 陕西"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:288
+msgid "Gansu / 甘肃"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:289
+msgid "Qinghai / 青海"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:290
+msgid "Ningxia Hui / 宁夏"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:291
+msgid "Macao / 澳门"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:292
+msgid "Tibet / 西藏"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:293
+msgid "Xinjiang / 新疆"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:299
+msgid "Distrito Nacional"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:300
+msgid "Azua"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:301
+msgid "Baoruco"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:302
+msgid "Barahona"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:303
+msgid "Dajabón"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:304
+msgid "Duarte"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:305
+msgid "Elías Piña"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:306
+msgid "El Seibo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:307
+msgid "Espaillat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:308
+msgid "Independencia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:309
+msgid "La Altagracia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:310
+msgid "La Romana"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:311
+msgid "La Vega"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:312
+msgid "María Trinidad Sánchez"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:313
+msgid "Monte Cristi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:314
+msgid "Pedernales"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:315
+msgid "Peravia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:316
+msgid "Puerto Plata"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:317
+msgid "Hermanas Mirabal"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:318
+msgid "Samaná"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:319
+msgid "San Cristóbal"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:321
+msgid "San Pedro de Macorís"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:322
+msgid "Sánchez Ramírez"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:323
+msgid "Santiago"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:324
+msgid "Santiago Rodríguez"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:325
+msgid "Valverde"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:326
+msgid "Monseñor Nouel"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:327
+msgid "Monte Plata"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:328
+msgid "Hato Mayor"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:329
+msgid "San José de Ocoa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:330
+msgid "Santo Domingo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:333
+msgid "Adrar"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:334
+msgid "Chlef"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:335
+msgid "Laghouat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:336
+msgid "Oum El Bouaghi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:337
+msgid "Batna"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:338
+msgid "Béjaïa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:339
+msgid "Biskra"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:340
+msgid "Béchar"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:341
+msgid "Blida"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:342
+msgid "Bouira"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:343
+msgid "Tamanghasset"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:344
+msgid "Tébessa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:345
+msgid "Tlemcen"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:346
+msgid "Tiaret"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:347
+msgid "Tizi Ouzou"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:348
+msgid "Algiers"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:349
+msgid "Djelfa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:350
+msgid "Jijel"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:351
+msgid "Sétif"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:352
+msgid "Saïda"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:353
+msgid "Skikda"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:354
+msgid "Sidi Bel Abbès"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:355
+msgid "Annaba"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:356
+msgid "Guelma"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:357
+msgid "Constantine"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:358
+msgid "Médéa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:359
+msgid "Mostaganem"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:360
+msgid "M’Sila"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:361
+msgid "Mascara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:362
+msgid "Ouargla"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:363
+msgid "Oran"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:364
+msgid "El Bayadh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:365
+msgid "Illizi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:366
+msgid "Bordj Bou Arréridj"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:367
+msgid "Boumerdès"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:368
+msgid "El Tarf"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:369
+msgid "Tindouf"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:370
+msgid "Tissemsilt"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:371
+msgid "El Oued"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:372
+msgid "Khenchela"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:373
+msgid "Souk Ahras"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:374
+msgid "Tipasa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:375
+msgid "Mila"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:376
+msgid "Aïn Defla"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:377
+msgid "Naama"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:378
+msgid "Aïn Témouchent"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:379
+msgid "Ghardaïa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:380
+msgid "Relizane"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:384
+msgid "Alexandria"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:385
+msgid "Aswan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:386
+msgid "Asyut"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:387
+msgid "Red Sea"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:388
+msgid "Beheira"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:389
+msgid "Beni Suef"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:390
+msgid "Cairo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:391
+msgid "Dakahlia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:392
+msgid "Damietta"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:393
+msgid "Faiyum"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:394
+msgid "Gharbia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:395
+msgid "Giza"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:396
+msgid "Ismailia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:397
+msgid "South Sinai"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:398
+msgid "Qalyubia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:399
+msgid "Kafr el-Sheikh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:400
+msgid "Qena"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:401
+msgid "Luxor"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:402
+msgid "Minya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:403
+msgid "Monufia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:404
+msgid "Matrouh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:405
+msgid "Port Said"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:406
+msgid "Sohag"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:407
+msgid "Al Sharqia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:408
+msgid "North Sinai"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:409
+msgid "Suez"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:410
+msgid "New Valley"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:413
+msgid "A Coruña"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:414
+msgid "Araba/Álava"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:415
+msgid "Albacete"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:416
+msgid "Alicante"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:417
+msgid "Almería"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:418
+msgid "Asturias"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:419
+msgid "Ávila"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:420
+msgid "Badajoz"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:421
+msgid "Baleares"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:422
+msgid "Barcelona"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:423
+msgid "Burgos"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:424
+msgid "Cáceres"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:425
+msgid "Cádiz"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:426
+msgid "Cantabria"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:427
+msgid "Castellón"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:428
+msgid "Ceuta"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:429
+msgid "Ciudad Real"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:431
+msgid "Cuenca"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:432
+msgid "Girona"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:433
+msgid "Granada"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:434
+msgid "Guadalajara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:435
+msgid "Gipuzkoa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:436
+msgid "Huelva"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:437
+msgid "Huesca"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:438
+msgid "Jaén"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:440
+msgid "Las Palmas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:441
+msgid "León"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:442
+msgid "Lleida"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:443
+msgid "Lugo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:444
+msgid "Madrid"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:445
+msgid "Málaga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:446
+msgid "Melilla"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:447
+msgid "Murcia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:448
+msgid "Navarra"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:449
+msgid "Ourense"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:450
+msgid "Palencia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:451
+msgid "Pontevedra"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:452
+msgid "Salamanca"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:453
+msgid "Santa Cruz de Tenerife"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:454
+msgid "Segovia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:455
+msgid "Sevilla"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:456
+msgid "Soria"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:457
+msgid "Tarragona"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:458
+msgid "Teruel"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:459
+msgid "Toledo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:460
+msgid "Valencia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:461
+msgid "Valladolid"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:462
+msgid "Biscay"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:463
+msgid "Zamora"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:464
+msgid "Zaragoza"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:470
+msgid "Ahafo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:471
+msgid "Ashanti"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:472
+msgid "Brong-Ahafo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:473
+msgid "Bono"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:474
+msgid "Bono East"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:475
+#: includes/MailBuilder/languages/states.php:1301
+#: includes/MailBuilder/languages/states.php:1826
+msgid "Central"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:476
+#: includes/MailBuilder/languages/states.php:1827
+msgid "Eastern"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:477
+msgid "Greater Accra"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:478
+msgid "North East"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:479
+#: includes/MailBuilder/languages/states.php:1829
+msgid "Northern"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:480
+msgid "Oti"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:481
+msgid "Savannah"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:482
+msgid "Upper East"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:483
+msgid "Upper West"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:484
+msgid "Volta"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:485
+#: includes/MailBuilder/languages/states.php:1825
+msgid "Western"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:486
+msgid "Western North"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:490
+msgid "Attica"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:491
+msgid "East Macedonia and Thrace"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:492
+msgid "Central Macedonia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:493
+msgid "West Macedonia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:494
+msgid "Epirus"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:495
+msgid "Thessaly"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:496
+msgid "Ionian Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:497
+msgid "West Greece"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:498
+msgid "Central Greece"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:499
+msgid "Peloponnese"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:500
+msgid "North Aegean"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:501
+msgid "South Aegean"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:502
+msgid "Crete"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:505
+msgid "Alta Verapaz"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:506
+msgid "Baja Verapaz"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:507
+msgid "Chimaltenango"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:508
+msgid "Chiquimula"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:509
+msgid "El Progreso"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:510
+msgid "Escuintla"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:512
+msgid "Huehuetenango"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:513
+msgid "Izabal"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:514
+msgid "Jalapa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:515
+msgid "Jutiapa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:516
+msgid "Petén"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:517
+msgid "Quetzaltenango"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:518
+msgid "Quiché"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:519
+msgid "Retalhuleu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:520
+msgid "Sacatepéquez"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:521
+msgid "San Marcos"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:522
+msgid "Santa Rosa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:523
+msgid "Sololá"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:524
+msgid "Suchitepéquez"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:525
+msgid "Totonicapán"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:526
+msgid "Zacapa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:529
+msgid "Hong Kong Island"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:530
+msgid "Kowloon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:531
+msgid "New Territories"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:534
+msgid "Bács-Kiskun"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:535
+msgid "Békés"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:536
+msgid "Baranya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:537
+msgid "Borsod-Abaúj-Zemplén"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:538
+msgid "Budapest"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:539
+msgid "Csongrád-Csanád"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:540
+msgid "Fejér"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:541
+msgid "Győr-Moson-Sopron"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:542
+msgid "Hajdú-Bihar"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:543
+msgid "Heves"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:544
+msgid "Jász-Nagykun-Szolnok"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:545
+msgid "Komárom-Esztergom"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:546
+msgid "Nógrád"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:547
+msgid "Pest"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:548
+msgid "Somogy"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:549
+msgid "Szabolcs-Szatmár-Bereg"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:550
+msgid "Tolna"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:551
+msgid "Vas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:552
+msgid "Veszprém"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:553
+msgid "Zala"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:556
+msgid "Daerah Istimewa Aceh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:557
+msgid "Sumatera Utara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:558
+msgid "Sumatera Barat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:559
+msgid "Riau"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:560
+msgid "Kepulauan Riau"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:561
+msgid "Jambi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:562
+msgid "Sumatera Selatan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:563
+msgid "Bangka Belitung"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:564
+msgid "Bengkulu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:565
+msgid "Lampung"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:566
+msgid "DKI Jakarta"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:567
+msgid "Jawa Barat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:568
+msgid "Banten"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:569
+msgid "Jawa Tengah"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:570
+msgid "Jawa Timur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:571
+msgid "Daerah Istimewa Yogyakarta"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:572
+msgid "Bali"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:573
+msgid "Nusa Tenggara Barat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:574
+msgid "Nusa Tenggara Timur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:575
+msgid "Kalimantan Barat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:576
+msgid "Kalimantan Tengah"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:577
+msgid "Kalimantan Timur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:578
+msgid "Kalimantan Selatan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:579
+msgid "Kalimantan Utara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:580
+msgid "Sulawesi Utara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:581
+msgid "Sulawesi Tengah"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:582
+msgid "Sulawesi Tenggara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:583
+msgid "Sulawesi Barat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:584
+msgid "Sulawesi Selatan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:585
+msgid "Gorontalo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:586
+msgid "Maluku"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:587
+msgid "Maluku Utara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:588
+msgid "Papua"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:589
+msgid "Papua Barat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:592
+msgid "Carlow"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:593
+msgid "Cavan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:594
+msgid "Clare"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:595
+msgid "Cork"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:596
+msgid "Donegal"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:597
+msgid "Dublin"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:598
+msgid "Galway"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:599
+msgid "Kerry"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:600
+msgid "Kildare"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:601
+msgid "Kilkenny"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:602
+msgid "Laois"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:603
+msgid "Leitrim"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:604
+msgid "Limerick"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:605
+msgid "Longford"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:606
+msgid "Louth"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:607
+msgid "Mayo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:608
+msgid "Meath"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:609
+msgid "Monaghan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:610
+msgid "Offaly"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:611
+msgid "Roscommon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:612
+msgid "Sligo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:613
+msgid "Tipperary"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:614
+msgid "Waterford"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:615
+msgid "Westmeath"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:616
+msgid "Wexford"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:617
+msgid "Wicklow"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:620
+msgid "Andhra Pradesh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:621
+msgid "Arunachal Pradesh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:622
+msgid "Assam"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:623
+msgid "Bihar"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:624
+msgid "Chhattisgarh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:625
+msgid "Goa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:626
+msgid "Gujarat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:627
+msgid "Haryana"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:628
+msgid "Himachal Pradesh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:629
+msgid "Jammu and Kashmir"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:630
+msgid "Jharkhand"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:631
+msgid "Karnataka"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:632
+msgid "Kerala"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:633
+msgid "Ladakh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:634
+msgid "Madhya Pradesh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:635
+msgid "Maharashtra"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:636
+msgid "Manipur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:637
+msgid "Meghalaya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:638
+msgid "Mizoram"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:639
+msgid "Nagaland"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:640
+msgid "Odisha"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:641
+#: includes/MailBuilder/languages/states.php:1283
+msgid "Punjab"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:642
+msgid "Rajasthan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:643
+msgid "Sikkim"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:644
+msgid "Tamil Nadu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:645
+msgid "Telangana"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:646
+msgid "Tripura"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:647
+msgid "Uttarakhand"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:648
+msgid "Uttar Pradesh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:649
+msgid "West Bengal"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:650
+msgid "Andaman and Nicobar Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:651
+msgid "Chandigarh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:652
+msgid "Dadra and Nagar Haveli"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:653
+msgid "Daman and Diu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:654
+msgid "Delhi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:655
+msgid "Lakshadeep"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:656
+msgid "Pondicherry (Puducherry)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:659
+msgid "Khuzestan  (خوزستان)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:660
+msgid "Tehran  (تهران)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:661
+msgid "Ilaam (ایلام)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:662
+msgid "Bushehr (بوشهر)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:663
+msgid "Ardabil (اردبیل)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:664
+msgid "Isfahan (اصفهان)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:665
+msgid "Yazd (یزد)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:666
+msgid "Kermanshah (کرمانشاه)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:667
+msgid "Kerman (کرمان)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:668
+msgid "Hamadan (همدان)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:669
+msgid "Ghazvin (قزوین)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:670
+msgid "Zanjan (زنجان)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:671
+msgid "Luristan (لرستان)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:672
+msgid "Alborz (البرز)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:673
+msgid "East Azarbaijan (آذربایجان شرقی)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:674
+msgid "West Azarbaijan (آذربایجان غربی)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:675
+msgid "Chaharmahal and Bakhtiari (چهارمحال و بختیاری)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:676
+msgid "South Khorasan (خراسان جنوبی)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:677
+msgid "Razavi Khorasan (خراسان رضوی)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:678
+msgid "North Khorasan (خراسان شمالی)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:679
+msgid "Semnan (سمنان)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:680
+msgid "Fars (فارس)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:681
+msgid "Qom (قم)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:682
+msgid "Kurdistan / کردستان)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:683
+msgid "Kohgiluyeh and BoyerAhmad (کهگیلوییه و بویراحمد)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:684
+msgid "Golestan (گلستان)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:685
+msgid "Gilan (گیلان)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:686
+msgid "Mazandaran (مازندران)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:687
+msgid "Markazi (مرکزی)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:688
+msgid "Hormozgan (هرمزگان)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:689
+msgid "Sistan and Baluchestan (سیستان و بلوچستان)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:693
+msgid "Agrigento"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:694
+msgid "Alessandria"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:695
+msgid "Ancona"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:696
+msgid "Aosta"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:697
+msgid "Arezzo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:698
+msgid "Ascoli Piceno"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:699
+msgid "Asti"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:700
+msgid "Avellino"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:701
+msgid "Bari"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:702
+msgid "Barletta-Andria-Trani"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:703
+msgid "Belluno"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:704
+msgid "Benevento"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:705
+msgid "Bergamo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:706
+msgid "Biella"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:707
+msgid "Bologna"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:708
+msgid "Bolzano"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:709
+msgid "Brescia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:710
+msgid "Brindisi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:711
+msgid "Cagliari"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:712
+msgid "Caltanissetta"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:713
+msgid "Campobasso"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:714
+msgid "Caserta"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:715
+msgid "Catania"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:716
+msgid "Catanzaro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:717
+msgid "Chieti"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:718
+msgid "Como"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:719
+msgid "Cosenza"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:720
+msgid "Cremona"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:721
+msgid "Crotone"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:722
+msgid "Cuneo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:723
+msgid "Enna"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:724
+msgid "Fermo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:725
+msgid "Ferrara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:726
+msgid "Firenze"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:727
+msgid "Foggia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:728
+msgid "Forlì-Cesena"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:729
+msgid "Frosinone"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:730
+msgid "Genova"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:731
+msgid "Gorizia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:732
+msgid "Grosseto"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:733
+msgid "Imperia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:734
+msgid "Isernia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:735
+msgid "La Spezia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:736
+msgid "L'Aquila"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:737
+msgid "Latina"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:738
+msgid "Lecce"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:739
+msgid "Lecco"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:740
+msgid "Livorno"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:741
+msgid "Lodi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:742
+msgid "Lucca"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:743
+msgid "Macerata"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:744
+msgid "Mantova"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:745
+msgid "Massa-Carrara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:746
+msgid "Matera"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:747
+msgid "Messina"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:748
+msgid "Milano"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:749
+msgid "Modena"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:750
+msgid "Monza e della Brianza"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:751
+msgid "Napoli"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:752
+msgid "Novara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:753
+msgid "Nuoro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:754
+msgid "Oristano"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:755
+msgid "Padova"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:756
+msgid "Palermo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:757
+msgid "Parma"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:758
+msgid "Pavia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:759
+msgid "Perugia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:760
+msgid "Pesaro e Urbino"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:761
+msgid "Pescara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:762
+msgid "Piacenza"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:763
+msgid "Pisa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:764
+msgid "Pistoia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:765
+msgid "Pordenone"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:766
+msgid "Potenza"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:767
+msgid "Prato"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:768
+msgid "Ragusa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:769
+msgid "Ravenna"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:770
+msgid "Reggio Calabria"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:771
+msgid "Reggio Emilia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:772
+msgid "Rieti"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:773
+msgid "Rimini"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:774
+msgid "Roma"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:775
+msgid "Rovigo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:776
+msgid "Salerno"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:777
+msgid "Sassari"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:778
+msgid "Savona"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:779
+msgid "Siena"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:780
+msgid "Siracusa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:781
+msgid "Sondrio"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:782
+msgid "Sud Sardegna"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:783
+msgid "Taranto"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:784
+msgid "Teramo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:785
+msgid "Terni"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:786
+msgid "Torino"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:787
+msgid "Trapani"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:788
+msgid "Trento"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:789
+msgid "Treviso"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:790
+msgid "Trieste"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:791
+msgid "Udine"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:792
+msgid "Varese"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:793
+msgid "Venezia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:794
+msgid "Verbano-Cusio-Ossola"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:795
+msgid "Vercelli"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:796
+msgid "Verona"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:797
+msgid "Vibo Valentia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:798
+msgid "Vicenza"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:799
+msgid "Viterbo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:804
+msgid "Kingston"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:805
+msgid "Saint Andrew"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:806
+msgid "Saint Thomas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:807
+msgid "Portland"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:808
+msgid "Saint Mary"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:809
+msgid "Saint Ann"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:810
+msgid "Trelawny"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:811
+msgid "Saint James"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:812
+msgid "Hanover"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:813
+msgid "Westmoreland"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:814
+msgid "Saint Elizabeth"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:815
+msgid "Manchester"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:816
+msgid "Clarendon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:817
+msgid "Saint Catherine"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:827
+msgid "Hokkaido"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:828
+msgid "Aomori"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:829
+msgid "Iwate"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:830
+msgid "Miyagi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:831
+msgid "Akita"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:832
+msgid "Yamagata"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:833
+msgid "Fukushima"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:834
+msgid "Ibaraki"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:835
+msgid "Tochigi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:836
+msgid "Gunma"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:837
+msgid "Saitama"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:838
+msgid "Chiba"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:839
+msgid "Tokyo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:840
+msgid "Kanagawa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:841
+msgid "Niigata"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:842
+msgid "Toyama"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:843
+msgid "Ishikawa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:844
+msgid "Fukui"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:845
+msgid "Yamanashi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:846
+msgid "Nagano"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:847
+msgid "Gifu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:848
+msgid "Shizuoka"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:849
+msgid "Aichi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:850
+msgid "Mie"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:851
+msgid "Shiga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:852
+msgid "Kyoto"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:853
+msgid "Osaka"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:854
+msgid "Hyogo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:855
+msgid "Nara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:856
+msgid "Wakayama"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:857
+msgid "Tottori"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:858
+msgid "Shimane"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:859
+msgid "Okayama"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:860
+msgid "Hiroshima"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:861
+msgid "Yamaguchi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:862
+msgid "Tokushima"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:863
+msgid "Kagawa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:864
+msgid "Ehime"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:865
+msgid "Kochi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:866
+msgid "Fukuoka"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:867
+msgid "Saga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:868
+msgid "Nagasaki"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:869
+msgid "Kumamoto"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:870
+msgid "Oita"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:871
+msgid "Miyazaki"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:872
+msgid "Kagoshima"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:873
+msgid "Okinawa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:876
+msgid "Baringo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:877
+msgid "Bomet"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:878
+msgid "Bungoma"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:879
+#: includes/MailBuilder/languages/states.php:1612
+msgid "Busia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:880
+msgid "Elgeyo-Marakwet"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:881
+msgid "Embu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:882
+msgid "Garissa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:883
+msgid "Homa Bay"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:884
+msgid "Isiolo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:885
+msgid "Kajiado"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:886
+msgid "Kakamega"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:887
+msgid "Kericho"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:888
+msgid "Kiambu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:889
+msgid "Kilifi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:890
+msgid "Kirinyaga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:891
+msgid "Kisii"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:892
+msgid "Kisumu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:893
+msgid "Kitui"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:894
+msgid "Kwale"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:895
+msgid "Laikipia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:896
+msgid "Lamu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:897
+msgid "Machakos"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:898
+msgid "Makueni"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:899
+msgid "Mandera"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:900
+msgid "Marsabit"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:901
+msgid "Meru"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:902
+msgid "Migori"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:903
+msgid "Mombasa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:904
+msgid "Murang’a"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:905
+msgid "Nairobi County"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:906
+msgid "Nakuru"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:907
+msgid "Nandi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:908
+msgid "Narok"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:909
+msgid "Nyamira"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:910
+msgid "Nyandarua"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:911
+msgid "Nyeri"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:912
+msgid "Samburu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:913
+msgid "Siaya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:914
+msgid "Taita-Taveta"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:915
+msgid "Tana River"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:916
+msgid "Tharaka-Nithi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:917
+msgid "Trans Nzoia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:918
+msgid "Turkana"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:919
+msgid "Uasin Gishu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:920
+msgid "Vihiga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:921
+msgid "Wajir"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:922
+msgid "West Pokot"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:927
+msgid "Attapeu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:928
+msgid "Bokeo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:929
+msgid "Bolikhamsai"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:930
+msgid "Champasak"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:931
+msgid "Houaphanh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:932
+msgid "Khammouane"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:933
+msgid "Luang Namtha"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:934
+msgid "Luang Prabang"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:935
+msgid "Oudomxay"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:936
+msgid "Phongsaly"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:937
+msgid "Salavan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:938
+msgid "Savannakhet"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:939
+msgid "Vientiane Province"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:940
+msgid "Vientiane"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:941
+msgid "Sainyabuli"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:942
+msgid "Sekong"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:943
+msgid "Xiangkhouang"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:944
+msgid "Xaisomboun"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:948
+msgid "Bomi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:949
+msgid "Bong"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:950
+msgid "Gbarpolu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:951
+msgid "Grand Bassa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:952
+msgid "Grand Cape Mount"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:953
+msgid "Grand Gedeh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:954
+msgid "Grand Kru"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:955
+msgid "Lofa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:956
+msgid "Margibi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:957
+#: includes/MailBuilder/languages/states.php:1749
+msgid "Maryland"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:958
+msgid "Montserrado"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:959
+msgid "Nimba"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:960
+msgid "Rivercess"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:961
+msgid "River Gee"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:962
+msgid "Sinoe"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:966
+msgid "Chișinău"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:967
+msgid "Bălți"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:968
+msgid "Anenii Noi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:969
+msgid "Basarabeasca"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:970
+msgid "Briceni"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:971
+msgid "Cahul"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:972
+msgid "Cantemir"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:973
+#: includes/MailBuilder/languages/states.php:1322
+msgid "Călărași"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:974
+msgid "Căușeni"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:975
+msgid "Cimișlia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:976
+msgid "Criuleni"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:977
+msgid "Dondușeni"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:978
+msgid "Drochia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:979
+msgid "Dubăsari"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:980
+msgid "Edineț"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:981
+msgid "Fălești"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:982
+msgid "Florești"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:983
+msgid "UTA Găgăuzia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:984
+msgid "Glodeni"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:985
+msgid "Hîncești"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:986
+msgid "Ialoveni"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:987
+msgid "Leova"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:988
+msgid "Nisporeni"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:989
+msgid "Ocnița"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:990
+msgid "Orhei"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:991
+msgid "Rezina"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:992
+msgid "Rîșcani"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:993
+msgid "Sîngerei"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:994
+msgid "Soroca"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:995
+msgid "Strășeni"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:996
+msgid "Șoldănești"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:997
+msgid "Ștefan Vodă"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:998
+msgid "Taraclia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:999
+msgid "Telenești"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1000
+msgid "Ungheni"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1005
+msgid "Ciudad de México"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1006
+msgid "Jalisco"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1007
+msgid "Nuevo León"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1008
+msgid "Aguascalientes"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1009
+msgid "Baja California"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1010
+msgid "Baja California Sur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1011
+msgid "Campeche"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1012
+msgid "Chiapas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1013
+msgid "Chihuahua"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1014
+msgid "Coahuila"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1015
+msgid "Colima"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1016
+msgid "Durango"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1017
+msgid "Guanajuato"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1018
+msgid "Guerrero"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1019
+msgid "Hidalgo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1020
+msgid "Estado de México"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1021
+msgid "Michoacán"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1022
+msgid "Morelos"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1023
+msgid "Nayarit"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1024
+msgid "Oaxaca"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1025
+msgid "Puebla"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1026
+msgid "Querétaro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1027
+msgid "Quintana Roo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1028
+msgid "San Luis Potosí"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1029
+msgid "Sinaloa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1030
+msgid "Sonora"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1031
+msgid "Tabasco"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1032
+msgid "Tamaulipas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1033
+msgid "Tlaxcala"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1034
+msgid "Veracruz"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1035
+msgid "Yucatán"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1036
+msgid "Zacatecas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1039
+msgid "Johor"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1040
+msgid "Kedah"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1041
+msgid "Kelantan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1042
+msgid "Labuan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1043
+msgid "Malacca (Melaka)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1044
+msgid "Negeri Sembilan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1045
+msgid "Pahang"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1046
+msgid "Penang (Pulau Pinang)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1047
+msgid "Perak"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1048
+msgid "Perlis"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1049
+msgid "Sabah"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1050
+msgid "Sarawak"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1051
+msgid "Selangor"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1052
+msgid "Terengganu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1053
+msgid "Putrajaya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1054
+msgid "Kuala Lumpur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1057
+msgid "Cabo Delgado"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1058
+msgid "Gaza"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1059
+msgid "Inhambane"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1060
+msgid "Manica"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1061
+msgid "Maputo Province"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1062
+msgid "Maputo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1063
+msgid "Nampula"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1064
+msgid "Niassa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1065
+msgid "Sofala"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1066
+msgid "Tete"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1067
+msgid "Zambézia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1070
+msgid "Erongo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1071
+msgid "Hardap"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1072
+msgid "Karas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1073
+msgid "Kavango East"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1074
+msgid "Kavango West"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1075
+msgid "Khomas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1076
+msgid "Kunene"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1077
+msgid "Ohangwena"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1078
+msgid "Omaheke"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1079
+msgid "Omusati"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1080
+msgid "Oshana"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1081
+msgid "Oshikoto"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1082
+msgid "Otjozondjupa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1083
+msgid "Zambezi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1086
+msgid "Abia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1087
+msgid "Abuja"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1088
+msgid "Adamawa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1089
+msgid "Akwa Ibom"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1090
+msgid "Anambra"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1091
+msgid "Bauchi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1092
+msgid "Bayelsa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1093
+msgid "Benue"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1094
+msgid "Borno"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1095
+msgid "Cross River"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1096
+msgid "Delta"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1097
+msgid "Ebonyi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1098
+msgid "Edo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1099
+msgid "Ekiti"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1100
+msgid "Enugu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1101
+msgid "Gombe"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1102
+msgid "Imo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1103
+msgid "Jigawa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1104
+msgid "Kaduna"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1105
+msgid "Kano"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1106
+msgid "Katsina"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1107
+msgid "Kebbi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1108
+msgid "Kogi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1109
+msgid "Kwara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1110
+msgid "Lagos"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1111
+msgid "Nasarawa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1113
+msgid "Ogun"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1114
+msgid "Ondo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1115
+msgid "Osun"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1116
+msgid "Oyo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1118
+msgid "Rivers"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1119
+msgid "Sokoto"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1120
+msgid "Taraba"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1121
+msgid "Yobe"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1122
+msgid "Zamfara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1127
+msgid "Bagmati"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1128
+msgid "Bheri"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1129
+msgid "Dhaulagiri"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1130
+msgid "Gandaki"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1131
+msgid "Janakpur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1132
+msgid "Karnali"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1133
+msgid "Koshi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1134
+msgid "Lumbini"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1135
+msgid "Mahakali"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1136
+msgid "Mechi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1137
+msgid "Narayani"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1138
+msgid "Rapti"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1139
+msgid "Sagarmatha"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1140
+msgid "Seti"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1143
+msgid "Northland"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1144
+msgid "Auckland"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1145
+msgid "Waikato"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1146
+msgid "Bay of Plenty"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1147
+msgid "Taranaki"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1148
+msgid "Gisborne"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1149
+msgid "Hawke’s Bay"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1150
+msgid "Manawatu-Wanganui"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1151
+msgid "Wellington"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1152
+msgid "Nelson"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1153
+msgid "Marlborough"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1154
+msgid "Tasman"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1155
+msgid "West Coast"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1156
+msgid "Canterbury"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1157
+msgid "Otago"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1158
+msgid "Southland"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1161
+msgid "El Callao"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1162
+msgid "Municipalidad Metropolitana de Lima"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1164
+msgid "Ancash"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1165
+msgid "Apurímac"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1166
+msgid "Arequipa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1167
+msgid "Ayacucho"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1168
+msgid "Cajamarca"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1169
+msgid "Cusco"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1170
+msgid "Huancavelica"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1171
+msgid "Huánuco"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1172
+msgid "Ica"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1173
+msgid "Junín"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1174
+msgid "La Libertad"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1175
+msgid "Lambayeque"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1176
+msgid "Lima"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1177
+msgid "Loreto"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1178
+msgid "Madre de Dios"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1179
+msgid "Moquegua"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1180
+msgid "Pasco"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1181
+msgid "Piura"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1182
+msgid "Puno"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1183
+msgid "San Martín"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1184
+msgid "Tacna"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1185
+msgid "Tumbes"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1186
+msgid "Ucayali"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1193
+msgid "Abra"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1194
+msgid "Agusan del Norte"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1195
+msgid "Agusan del Sur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1196
+msgid "Aklan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1197
+msgid "Albay"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1198
+msgid "Antique"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1199
+msgid "Apayao"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1200
+msgid "Aurora"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1201
+msgid "Basilan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1202
+msgid "Bataan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1203
+msgid "Batanes"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1204
+msgid "Batangas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1205
+msgid "Benguet"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1206
+msgid "Biliran"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1207
+msgid "Bohol"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1208
+msgid "Bukidnon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1209
+msgid "Bulacan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1210
+msgid "Cagayan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1211
+msgid "Camarines Norte"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1212
+msgid "Camarines Sur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1213
+msgid "Camiguin"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1214
+msgid "Capiz"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1215
+msgid "Catanduanes"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1216
+msgid "Cavite"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1217
+msgid "Cebu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1218
+msgid "Compostela Valley"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1219
+msgid "Cotabato"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1220
+msgid "Davao del Norte"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1221
+msgid "Davao del Sur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1222
+msgid "Davao Occidental"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1223
+msgid "Davao Oriental"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1224
+msgid "Dinagat Islands"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1225
+msgid "Eastern Samar"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1226
+msgid "Guimaras"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1227
+msgid "Ifugao"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1228
+msgid "Ilocos Norte"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1229
+msgid "Ilocos Sur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1230
+msgid "Iloilo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1231
+msgid "Isabela"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1232
+msgid "Kalinga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1233
+msgid "La Union"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1234
+msgid "Laguna"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1235
+msgid "Lanao del Norte"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1236
+msgid "Lanao del Sur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1237
+msgid "Leyte"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1238
+msgid "Maguindanao"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1239
+msgid "Marinduque"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1240
+msgid "Masbate"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1241
+msgid "Misamis Occidental"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1242
+msgid "Misamis Oriental"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1243
+msgid "Mountain Province"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1244
+msgid "Negros Occidental"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1245
+msgid "Negros Oriental"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1246
+msgid "Northern Samar"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1247
+msgid "Nueva Ecija"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1248
+msgid "Nueva Vizcaya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1249
+msgid "Occidental Mindoro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1250
+msgid "Oriental Mindoro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1251
+msgid "Palawan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1252
+msgid "Pampanga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1253
+msgid "Pangasinan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1254
+msgid "Quezon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1255
+msgid "Quirino"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1256
+msgid "Rizal"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1257
+msgid "Romblon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1258
+msgid "Samar"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1259
+msgid "Sarangani"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1260
+msgid "Siquijor"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1261
+msgid "Sorsogon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1262
+msgid "South Cotabato"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1263
+msgid "Southern Leyte"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1264
+msgid "Sultan Kudarat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1265
+msgid "Sulu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1266
+msgid "Surigao del Norte"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1267
+msgid "Surigao del Sur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1268
+msgid "Tarlac"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1269
+msgid "Tawi-Tawi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1270
+msgid "Zambales"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1271
+msgid "Zamboanga del Norte"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1272
+msgid "Zamboanga del Sur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1273
+msgid "Zamboanga Sibugay"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1274
+msgid "Metro Manila"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1277
+msgid "Azad Kashmir"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1278
+msgid "Balochistan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1279
+msgid "FATA"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1280
+msgid "Gilgit Baltistan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1281
+msgid "Islamabad Capital Territory"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1282
+msgid "Khyber Pakhtunkhwa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1284
+msgid "Sindh"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1290
+msgid "Asunción"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1291
+msgid "Concepción"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1292
+msgid "San Pedro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1293
+msgid "Cordillera"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1294
+msgid "Guairá"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1295
+msgid "Caaguazú"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1296
+msgid "Caazapá"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1297
+msgid "Itapúa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1299
+msgid "Paraguarí"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1300
+msgid "Alto Paraná"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1302
+msgid "Ñeembucú"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1303
+msgid "Amambay"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1304
+msgid "Canindeyú"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1305
+msgid "Presidente Hayes"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1306
+msgid "Alto Paraguay"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1307
+msgid "Boquerón"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1311
+msgid "Alba"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1312
+msgid "Arad"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1313
+msgid "Argeș"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1314
+msgid "Bacău"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1315
+msgid "Bihor"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1316
+msgid "Bistrița-Năsăud"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1317
+msgid "Botoșani"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1318
+msgid "Brăila"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1319
+msgid "Brașov"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1320
+msgid "București"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1321
+msgid "Buzău"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1323
+msgid "Caraș-Severin"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1324
+msgid "Cluj"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1325
+msgid "Constanța"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1326
+msgid "Covasna"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1327
+msgid "Dâmbovița"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1328
+msgid "Dolj"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1329
+msgid "Galați"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1330
+msgid "Giurgiu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1331
+msgid "Gorj"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1332
+msgid "Harghita"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1333
+msgid "Hunedoara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1334
+msgid "Ialomița"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1335
+msgid "Iași"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1336
+msgid "Ilfov"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1337
+msgid "Maramureș"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1338
+msgid "Mehedinți"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1339
+msgid "Mureș"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1340
+msgid "Neamț"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1341
+msgid "Olt"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1342
+msgid "Prahova"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1343
+msgid "Sălaj"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1344
+msgid "Satu Mare"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1345
+msgid "Sibiu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1346
+msgid "Suceava"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1347
+msgid "Teleorman"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1348
+msgid "Timiș"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1349
+msgid "Tulcea"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1350
+msgid "Vâlcea"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1351
+msgid "Vaslui"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1352
+msgid "Vrancea"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1358
+msgid "Amnat Charoen"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1359
+msgid "Ang Thong"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1360
+msgid "Ayutthaya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1361
+msgid "Bangkok"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1362
+msgid "Bueng Kan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1363
+msgid "Buri Ram"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1364
+msgid "Chachoengsao"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1365
+msgid "Chai Nat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1366
+msgid "Chaiyaphum"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1367
+msgid "Chanthaburi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1368
+msgid "Chiang Mai"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1369
+msgid "Chiang Rai"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1370
+msgid "Chonburi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1371
+msgid "Chumphon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1372
+msgid "Kalasin"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1373
+msgid "Kamphaeng Phet"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1374
+msgid "Kanchanaburi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1375
+msgid "Khon Kaen"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1376
+msgid "Krabi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1377
+msgid "Lampang"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1378
+msgid "Lamphun"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1379
+msgid "Loei"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1380
+msgid "Lopburi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1381
+msgid "Mae Hong Son"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1382
+msgid "Maha Sarakham"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1383
+msgid "Mukdahan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1384
+msgid "Nakhon Nayok"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1385
+msgid "Nakhon Pathom"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1386
+msgid "Nakhon Phanom"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1387
+msgid "Nakhon Ratchasima"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1388
+msgid "Nakhon Sawan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1389
+msgid "Nakhon Si Thammarat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1390
+msgid "Nan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1391
+msgid "Narathiwat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1392
+msgid "Nong Bua Lam Phu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1393
+msgid "Nong Khai"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1394
+msgid "Nonthaburi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1395
+msgid "Pathum Thani"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1396
+msgid "Pattani"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1397
+msgid "Phang Nga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1398
+msgid "Phatthalung"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1399
+msgid "Phayao"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1400
+msgid "Phetchabun"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1401
+msgid "Phetchaburi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1402
+msgid "Phichit"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1403
+msgid "Phitsanulok"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1404
+msgid "Phrae"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1405
+msgid "Phuket"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1406
+msgid "Prachin Buri"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1407
+msgid "Prachuap Khiri Khan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1408
+msgid "Ranong"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1409
+msgid "Ratchaburi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1410
+msgid "Rayong"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1411
+msgid "Roi Et"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1412
+msgid "Sa Kaeo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1413
+msgid "Sakon Nakhon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1414
+msgid "Samut Prakan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1415
+msgid "Samut Sakhon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1416
+msgid "Samut Songkhram"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1417
+msgid "Saraburi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1418
+msgid "Satun"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1419
+msgid "Sing Buri"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1420
+msgid "Sisaket"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1421
+msgid "Songkhla"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1422
+msgid "Sukhothai"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1423
+msgid "Suphan Buri"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1424
+msgid "Surat Thani"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1425
+msgid "Surin"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1426
+msgid "Tak"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1427
+msgid "Trang"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1428
+msgid "Trat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1429
+msgid "Ubon Ratchathani"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1430
+msgid "Udon Thani"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1431
+msgid "Uthai Thani"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1432
+msgid "Uttaradit"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1433
+msgid "Yala"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1434
+msgid "Yasothon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1437
+msgid "Adana"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1438
+msgid "Adıyaman"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1439
+msgid "Afyon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1440
+msgid "Ağrı"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1441
+msgid "Amasya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1442
+msgid "Ankara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1443
+msgid "Antalya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1444
+msgid "Artvin"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1445
+msgid "Aydın"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1446
+msgid "Balıkesir"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1447
+msgid "Bilecik"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1448
+msgid "Bingöl"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1449
+msgid "Bitlis"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1450
+msgid "Bolu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1451
+msgid "Burdur"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1452
+msgid "Bursa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1453
+msgid "Çanakkale"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1454
+msgid "Çankırı"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1455
+msgid "Çorum"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1456
+msgid "Denizli"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1457
+msgid "Diyarbakır"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1458
+msgid "Edirne"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1459
+msgid "Elazığ"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1460
+msgid "Erzincan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1461
+msgid "Erzurum"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1462
+msgid "Eskişehir"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1463
+msgid "Gaziantep"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1464
+msgid "Giresun"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1465
+msgid "Gümüşhane"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1466
+msgid "Hakkari"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1467
+msgid "Hatay"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1468
+msgid "Isparta"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1469
+msgid "İçel"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1470
+msgid "İstanbul"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1471
+msgid "İzmir"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1472
+msgid "Kars"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1473
+msgid "Kastamonu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1474
+msgid "Kayseri"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1475
+msgid "Kırklareli"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1476
+msgid "Kırşehir"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1477
+msgid "Kocaeli"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1478
+msgid "Konya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1479
+msgid "Kütahya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1480
+msgid "Malatya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1481
+msgid "Manisa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1482
+msgid "Kahramanmaraş"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1483
+msgid "Mardin"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1484
+msgid "Muğla"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1485
+msgid "Muş"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1486
+msgid "Nevşehir"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1487
+msgid "Niğde"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1488
+msgid "Ordu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1489
+msgid "Rize"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1490
+msgid "Sakarya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1491
+msgid "Samsun"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1492
+msgid "Siirt"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1493
+msgid "Sinop"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1494
+msgid "Sivas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1495
+msgid "Tekirdağ"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1496
+msgid "Tokat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1497
+msgid "Trabzon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1498
+msgid "Tunceli"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1499
+msgid "Şanlıurfa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1500
+msgid "Uşak"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1501
+msgid "Van"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1502
+msgid "Yozgat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1503
+msgid "Zonguldak"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1504
+msgid "Aksaray"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1505
+msgid "Bayburt"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1506
+msgid "Karaman"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1507
+msgid "Kırıkkale"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1508
+msgid "Batman"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1509
+msgid "Şırnak"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1510
+msgid "Bartın"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1511
+msgid "Ardahan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1512
+msgid "Iğdır"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1513
+msgid "Yalova"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1514
+msgid "Karabük"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1515
+msgid "Kilis"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1516
+msgid "Osmaniye"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1517
+msgid "Düzce"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1520
+msgid "Arusha"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1521
+msgid "Dar es Salaam"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1522
+msgid "Dodoma"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1523
+msgid "Iringa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1524
+msgid "Kagera"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1525
+msgid "Pemba North"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1526
+msgid "Zanzibar North"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1527
+msgid "Kigoma"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1528
+msgid "Kilimanjaro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1529
+msgid "Pemba South"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1530
+msgid "Zanzibar South"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1531
+msgid "Lindi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1532
+msgid "Mara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1533
+msgid "Mbeya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1534
+msgid "Zanzibar West"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1535
+msgid "Morogoro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1536
+msgid "Mtwara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1537
+msgid "Mwanza"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1538
+msgid "Coast"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1539
+msgid "Rukwa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1540
+msgid "Ruvuma"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1541
+msgid "Shinyanga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1542
+msgid "Singida"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1543
+msgid "Tabora"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1544
+msgid "Tanga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1545
+msgid "Manyara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1546
+msgid "Geita"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1547
+msgid "Katavi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1548
+msgid "Njombe"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1549
+msgid "Simiyu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1553
+msgctxt "district"
+msgid "Belgrade"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1554
+msgctxt "district"
+msgid "Bor"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1555
+msgctxt "district"
+msgid "Braničevo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1556
+msgctxt "district"
+msgid "Central Banat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1557
+msgctxt "district"
+msgid "Danube"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1558
+msgctxt "district"
+msgid "Jablanica"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1559
+msgctxt "district"
+msgid "Kolubara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1560
+msgctxt "district"
+msgid "Mačva"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1561
+msgctxt "district"
+msgid "Morava"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1562
+msgctxt "district"
+msgid "Nišava"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1563
+msgctxt "district"
+msgid "North Bačka"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1564
+msgctxt "district"
+msgid "North Banat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1565
+msgctxt "district"
+msgid "Pčinja"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1566
+msgctxt "district"
+msgid "Pirot"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1567
+msgctxt "district"
+msgid "Pomoravlje"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1568
+msgctxt "district"
+msgid "Rasina"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1569
+msgctxt "district"
+msgid "Raška"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1570
+msgctxt "district"
+msgid "South Bačka"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1571
+msgctxt "district"
+msgid "South Banat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1572
+msgctxt "district"
+msgid "Srem"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1573
+msgctxt "district"
+msgid "Šumadija"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1574
+msgctxt "district"
+msgid "Toplica"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1575
+msgctxt "district"
+msgid "West Bačka"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1576
+msgctxt "district"
+msgid "Zaječar"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1577
+msgctxt "district"
+msgid "Zlatibor"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1578
+msgctxt "district"
+msgid "Kosovo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1579
+msgctxt "district"
+msgid "Peć"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1580
+msgctxt "district"
+msgid "Prizren"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1581
+msgctxt "district"
+msgid "Kosovska Mitrovica"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1582
+msgctxt "district"
+msgid "Kosovo-Pomoravlje"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1583
+msgctxt "district"
+msgid "Kosovo-Metohija"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1584
+msgctxt "district"
+msgid "Vojvodina"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1588
+msgid "Abim"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1589
+msgid "Adjumani"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1590
+msgid "Agago"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1591
+msgid "Alebtong"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1592
+msgid "Amolatar"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1593
+msgid "Amudat"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1594
+msgid "Amuria"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1595
+msgid "Amuru"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1596
+msgid "Apac"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1597
+msgid "Arua"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1598
+msgid "Budaka"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1599
+msgid "Bududa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1600
+msgid "Bugiri"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1601
+msgid "Bugweri"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1602
+msgid "Buhweju"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1603
+msgid "Buikwe"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1604
+msgid "Bukedea"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1605
+msgid "Bukomansimbi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1606
+msgid "Bukwa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1607
+msgid "Bulambuli"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1608
+msgid "Buliisa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1609
+msgid "Bundibugyo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1610
+msgid "Bunyangabu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1611
+msgid "Bushenyi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1613
+msgid "Butaleja"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1614
+msgid "Butambala"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1615
+msgid "Butebo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1616
+msgid "Buvuma"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1617
+msgid "Buyende"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1618
+msgid "Dokolo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1619
+msgid "Gomba"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1620
+msgid "Gulu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1621
+msgid "Hoima"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1622
+msgid "Ibanda"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1623
+msgid "Iganga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1624
+msgid "Isingiro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1625
+msgid "Jinja"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1626
+msgid "Kaabong"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1627
+msgid "Kabale"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1628
+msgid "Kabarole"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1629
+msgid "Kaberamaido"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1630
+msgid "Kagadi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1631
+msgid "Kakumiro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1632
+msgid "Kalangala"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1633
+msgid "Kaliro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1634
+msgid "Kalungu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1635
+msgid "Kampala"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1636
+msgid "Kamuli"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1637
+msgid "Kamwenge"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1638
+msgid "Kanungu"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1639
+msgid "Kapchorwa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1640
+msgid "Kapelebyong"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1641
+msgid "Kasanda"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1642
+msgid "Kasese"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1643
+msgid "Katakwi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1644
+msgid "Kayunga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1645
+msgid "Kibaale"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1646
+msgid "Kiboga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1647
+msgid "Kibuku"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1648
+msgid "Kikuube"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1649
+msgid "Kiruhura"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1650
+msgid "Kiryandongo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1651
+msgid "Kisoro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1652
+msgid "Kitgum"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1653
+msgid "Koboko"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1654
+msgid "Kole"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1655
+msgid "Kotido"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1656
+msgid "Kumi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1657
+msgid "Kwania"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1658
+msgid "Kween"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1659
+msgid "Kyankwanzi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1660
+msgid "Kyegegwa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1661
+msgid "Kyenjojo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1662
+msgid "Kyotera"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1663
+msgid "Lamwo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1664
+msgid "Lira"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1665
+msgid "Luuka"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1666
+msgid "Luwero"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1667
+msgid "Lwengo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1668
+msgid "Lyantonde"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1669
+msgid "Manafwa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1670
+msgid "Maracha"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1671
+msgid "Masaka"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1672
+msgid "Masindi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1673
+msgid "Mayuge"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1674
+msgid "Mbale"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1675
+msgid "Mbarara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1676
+msgid "Mitooma"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1677
+msgid "Mityana"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1678
+msgid "Moroto"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1679
+msgid "Moyo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1680
+msgid "Mpigi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1681
+msgid "Mubende"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1682
+msgid "Mukono"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1683
+msgid "Nabilatuk"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1684
+msgid "Nakapiripirit"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1685
+msgid "Nakaseke"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1686
+msgid "Nakasongola"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1687
+msgid "Namayingo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1688
+msgid "Namisindwa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1689
+msgid "Namutumba"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1690
+msgid "Napak"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1691
+msgid "Nebbi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1692
+msgid "Ngora"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1693
+msgid "Ntoroko"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1694
+msgid "Ntungamo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1695
+msgid "Nwoya"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1696
+msgid "Omoro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1697
+msgid "Otuke"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1698
+msgid "Oyam"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1699
+msgid "Pader"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1700
+msgid "Pakwach"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1701
+msgid "Pallisa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1702
+msgid "Rakai"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1703
+msgid "Rubanda"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1704
+msgid "Rubirizi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1705
+msgid "Rukiga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1706
+msgid "Rukungiri"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1707
+msgid "Sembabule"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1708
+msgid "Serere"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1709
+msgid "Sheema"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1710
+msgid "Sironko"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1711
+msgid "Soroti"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1712
+msgid "Tororo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1713
+msgid "Wakiso"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1714
+msgid "Yumbe"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1715
+msgid "Zombo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1718
+msgid "Baker Island"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1719
+msgid "Howland Island"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1720
+msgid "Jarvis Island"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1721
+msgid "Johnston Atoll"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1722
+msgid "Kingman Reef"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1723
+msgid "Midway Atoll"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1724
+msgid "Navassa Island"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1725
+msgid "Palmyra Atoll"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1726
+msgid "Wake Island"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1729
+msgid "Alabama"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1730
+msgid "Alaska"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1731
+msgid "Arizona"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1732
+msgid "Arkansas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1733
+msgid "California"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1734
+msgid "Colorado"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1735
+msgid "Connecticut"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1736
+msgid "Delaware"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1737
+msgid "District Of Columbia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1738
+msgid "Florida"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1739
+msgctxt "US state of Georgia"
+msgid "Georgia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1740
+msgid "Hawaii"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1741
+msgid "Idaho"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1742
+msgid "Illinois"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1743
+msgid "Indiana"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1744
+msgid "Iowa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1745
+msgid "Kansas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1746
+msgid "Kentucky"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1747
+msgid "Louisiana"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1748
+msgid "Maine"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1750
+msgid "Massachusetts"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1751
+msgid "Michigan"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1752
+msgid "Minnesota"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1753
+msgid "Mississippi"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1754
+msgid "Missouri"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1756
+msgid "Nebraska"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1757
+msgid "Nevada"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1758
+msgid "New Hampshire"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1759
+msgid "New Jersey"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1760
+msgid "New Mexico"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1761
+msgid "New York"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1762
+msgid "North Carolina"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1763
+msgid "North Dakota"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1764
+msgid "Ohio"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1765
+msgid "Oklahoma"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1766
+msgid "Oregon"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1767
+msgid "Pennsylvania"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1768
+msgid "Rhode Island"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1769
+msgid "South Carolina"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1770
+msgid "South Dakota"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1771
+msgid "Tennessee"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1772
+msgid "Texas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1773
+msgid "Utah"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1774
+msgid "Vermont"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1775
+msgid "Virginia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1776
+msgid "Washington"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1777
+msgid "West Virginia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1778
+msgid "Wisconsin"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1779
+msgid "Wyoming"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1780
+msgid "Armed Forces (AA)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1781
+msgid "Armed Forces (AE)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1782
+msgid "Armed Forces (AP)"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1785
+msgid "Capital"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1786
+msgid "Anzoátegui"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1787
+msgid "Apure"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1788
+msgid "Aragua"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1789
+msgid "Barinas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1790
+msgid "Bolívar"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1791
+msgid "Carabobo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1792
+msgid "Cojedes"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1793
+msgid "Falcón"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1794
+msgid "Guárico"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1795
+msgid "Lara"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1796
+msgid "Mérida"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1797
+msgid "Miranda"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1798
+msgid "Monagas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1799
+msgid "Nueva Esparta"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1800
+msgid "Portuguesa"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1801
+msgid "Sucre"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1802
+msgid "Táchira"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1803
+msgid "Trujillo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1804
+msgid "Yaracuy"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1805
+msgid "Zulia"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1806
+msgid "Federal Dependencies"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1807
+msgid "Vargas"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1808
+msgid "Delta Amacuro"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1814
+msgid "Eastern Cape"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1815
+msgid "Free State"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1816
+msgid "Gauteng"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1817
+msgid "KwaZulu-Natal"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1818
+msgid "Limpopo"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1819
+msgid "Mpumalanga"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1820
+msgid "Northern Cape"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1821
+msgid "North West"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1822
+msgid "Western Cape"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1828
+msgid "Luapula"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1830
+msgid "North-Western"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1831
+msgid "Southern"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1832
+msgid "Copperbelt"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1833
+msgid "Lusaka"
+msgstr ""
+
+#: includes/MailBuilder/languages/states.php:1834
+msgid "Muchinga"
+msgstr ""
+
+#: includes/Page/Settings.php:102
+msgid "Customize with YayMail"
+msgstr ""
+
+#: includes/Page/Settings.php:107
+msgid "View WooCommerce Email Builder"
+msgstr ""
+
+#: includes/Page/Settings.php:107
+msgid "Start Customizing"
+msgstr ""
+
+#: includes/Page/Settings.php:114 includes/Page/Settings.php:115
+msgid "Email Template"
+msgstr ""
+
+#: includes/Page/Settings.php:116
+msgid "Add New Email Template"
+msgstr ""
+
+#: includes/Page/Settings.php:117
+msgid "Add a new Email Template"
+msgstr ""
+
+#: includes/Page/Settings.php:118
+msgid "Edit Email Template"
+msgstr ""
+
+#: includes/Page/Settings.php:119
+msgid "New Email Template"
+msgstr ""
+
+#: includes/Page/Settings.php:120
+msgid "View Email Template"
+msgstr ""
+
+#: includes/Page/Settings.php:121
+msgid "Search Email Template"
+msgstr ""
+
+#: includes/Page/Settings.php:122
+msgid "No Email Template found"
+msgstr ""
+
+#: includes/Page/Settings.php:123
+msgid "No Email Template currently trashed"
+msgstr ""
+
+#: includes/Page/Settings.php:145
+msgid "Email Builder Settings"
+msgstr ""
+
+#: includes/Page/Settings.php:145
+msgid "Email Customizer"
+msgstr ""
+
+#: includes/Page/Settings.php:261 includes/Templates/Templates.php:49
+msgid "Order partial shipped"
+msgstr ""
+
+#: includes/Page/Settings.php:272 includes/Templates/Templates.php:60
+msgid "AutomateWoo Referrals Email"
+msgstr ""
+
+#: includes/Page/Source/DisplayAddonNotice.php:191
+msgid ""
+"Recommend: You can use YayMail Addons to customize all email templates of:"
+msgstr ""
+
+#: includes/Page/Source/DisplayAddonNotice.php:202
+msgid "See Addons"
+msgstr ""
+
+#: includes/Page/Source/DisplayAddonNotice.php:203
+#: includes/Page/Source/DisplayNotice.php:26
+msgid "No, thanks"
+msgstr ""
+
+#: includes/Page/Source/DisplayNotice.php:16
+msgid "Please upgrade to YayMail Pro to customize emails with:"
+msgstr ""
+
+#: includes/Page/Source/DisplayNotice.php:25
+msgid "Upgrade Now"
+msgstr ""
+
+#: includes/Page/Source/DisplayNotice.php:33
+msgid "Woocommerce Subscriptions (PRO)"
+msgstr ""
+
+#: includes/Page/Source/DisplayNotice.php:39
+msgid "Woocommerce Shipment Tracking (PRO)"
+msgstr ""
+
+#: includes/Page/Source/DisplayNotice.php:45
+msgid "Woocommerce Order Status Manager (PRO)"
+msgstr ""
+
+#: includes/Page/Source/DisplayNotice.php:54
+msgid "Woocommerce Custom Email Tempaltes (PRO)"
+msgstr ""
+
+#: includes/Page/Source/DisplayNotice.php:60
+msgid "Woocommerce Admin Custom Order fields (PRO)"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/PartiallyShipped.php:24
+msgid "Your Order is Partially Shipped"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/PartiallyShipped.php:25
+msgid "Hi there. we thought you'd like to know that your recent order from "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/PartiallyShipped.php:25
+msgid " has been partially shipped."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/ShippedOrder.php:24
+msgid "Your Order is Shipped"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/ShippedOrder.php:25
+msgid "Hi there. We thought you’d like to know that your recent order from "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/ShippedOrder.php:25
+msgid " has been shipped."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/BackInStockNotifier/NotifierInstockMail.php:24
+#: includes/Templates/DefaultTemplate/BackInStockNotifier/NotifierSubscribeMail.php:24
+msgid "Product [yaymail_notifier_product_name] has back in stock"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CancelledOrder.php:26
+msgid "Order Cancelled: #{order_number}"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CancelledOrder.php:28
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:27
+msgid "Notification to let you know &mdash; order #"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CancelledOrder.php:28
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:27
+msgid " belonging to "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CancelledOrder.php:28
+msgid " has been cancelled:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CancelledOrder.php:29
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:28
+#: includes/Templates/DefaultTemplate/CustomerNote.php:28
+#: includes/Templates/DefaultTemplate/CustomerResetPassword.php:29
+msgid "Thanks for reading."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:30
+msgid "You have received a subscription renewal order from "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:30
+msgid " . Their order is as follows:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:31
+#: includes/Templates/DefaultTemplate/NewOrder.php:26
+msgid "Congratulations on the sale."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:34
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:38
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:42
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:46
+#: includes/Templates/DefaultTemplate/CustomerCompletedOrder.php:25
+#: includes/Templates/DefaultTemplate/CustomerInvoice.php:26
+#: includes/Templates/DefaultTemplate/CustomerNewAccount.php:27
+#: includes/Templates/DefaultTemplate/CustomerNote.php:25
+#: includes/Templates/DefaultTemplate/CustomerOnHoldOrder.php:25
+#: includes/Templates/DefaultTemplate/CustomerProcessingOrder.php:26
+#: includes/Templates/DefaultTemplate/CustomerRefundedOrder.php:25
+#: includes/Templates/DefaultTemplate/CustomerResetPassword.php:25
+msgid "Hi "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:34
+msgid ""
+"Just to let you know &mdash; we've received your subscription renewal order #"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:34
+#: includes/Templates/DefaultTemplate/CustomerProcessingOrder.php:27
+msgid ", and it is now being processed:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:35
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:47
+msgid "Thanks for using "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:38
+msgid "We have finished processing your subscription renewal order."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:39
+#: includes/Templates/DefaultTemplate/CustomerCompletedOrder.php:27
+msgid "Thanks for shopping with us."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:42
+msgid ""
+"Thanks for your renewal order. It's on-hold until we confirm that payment "
+"has been received. In the meantime, here's a reminder of your order:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:43
+#: includes/Templates/DefaultTemplate/CustomerOnHoldOrder.php:27
+msgid "We look forward to fulfilling your order soon."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerCompletedOrder.php:24
+msgid "Thanks for shopping with us"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerCompletedOrder.php:26
+msgid "We have finished processing your order."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerInvoice.php:24
+msgid "Your invoice for order #{order_number}"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerInvoice.php:27
+msgid "Here are the details of your order placed on "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerInvoice.php:28
+#: includes/Templates/DefaultTemplate/CustomerProcessingOrder.php:28
+msgid "Thanks for using {site_url}!"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerNewAccount.php:25
+msgid "Welcome to {site_title}"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerNewAccount.php:28
+msgid "Thanks for creating an account on "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerNewAccount.php:28
+msgid ". Your username is "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerNewAccount.php:28
+msgid ""
+". You can access your account area to view orders, change your password, and "
+"more at: "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerNewAccount.php:29
+msgid "We look forward to seeing you soon."
+msgstr ""
+
+#. translators: %s: Auto generated password
+#: includes/Templates/DefaultTemplate/CustomerNewAccount.php:34
+#, php-format
+msgid "Your password has been automatically generated: %s"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerNote.php:24
+msgid "A note has been added to your order"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerNote.php:26
+msgid "The following note has been added to your order:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerNote.php:27
+msgid "As a reminder, here are your order details:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerOnHoldOrder.php:24
+#: includes/Templates/DefaultTemplate/CustomerProcessingOrder.php:25
+msgid "Thank you for your order"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerOnHoldOrder.php:26
+msgid ""
+"Thanks for your order. It's on-hold until we confirm that payment has been "
+"received. In the meantime, here's a reminder of what you ordered:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerProcessingOrder.php:27
+msgid "Just to let you know &mdash; we've received your order #"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerRefundedOrder.php:26
+msgid "Your order on "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerRefundedOrder.php:26
+msgid " has been refunded. There are more details below for your reference:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerRefundedOrder.php:27
+msgid "We hope to see you again soon."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerResetPassword.php:24
+msgid "Password Reset Request"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerResetPassword.php:26
+msgid "Someone has requested a new password for the following account on "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerResetPassword.php:27
+msgid ""
+"If you didn't make this request, just ignore this email. If you'd like to "
+"proceed:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerResetPassword.php:28
+msgid "Username"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/FailedOrder.php:24
+msgid "Order Failed: #{order_number}"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/FailedOrder.php:26
+msgid "Payment for order #"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/FailedOrder.php:26
+msgid " from "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/FailedOrder.php:26
+msgid " has failed. The order was as follows:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/FailedOrder.php:27
+msgid ""
+"Hopefully they'll be back. Read more about <a href=\\\"https://docs."
+"woocommerce.com/document/managing-orders/\\\">troubleshooting failed "
+"payments</a>."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/NewOrder.php:24
+msgid "New order"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/NewOrder.php:25
+msgid "You've received the following order from "
+msgstr ""
+
+#: includes/Templates/Elements/YayMail/FooEventsTicket.php:24
+msgid "Ticket Details"
+msgstr ""
+
+#: includes/Templates/Elements/YayMail/ShippingTaxShipmentTracking.php:24
+msgid "Tracking"
+msgstr ""
+
+#: views/templates/emails/additional-order-details.php:32
+msgid "Additional Order Details"
+msgstr ""
+
+#. translators: %1$s: search number, %2$s: search total trackings
+#: views/templates/emails/ast-pro-tpi-email-order-details.php:98
+#, php-format
+msgid "Shipment %1$s (out of %2$s):"
+msgstr ""
+
+#: views/templates/emails/ast-pro-tpi-email-order-details.php:131
+#: views/templates/emails/ast_pro_shipment_tracking-info.php:77
+#: views/templates/emails/ast_pro_shipment_tracking-info.php:124
+#: views/templates/emails/sampleOrder/ast_pro_shipment_tracking-info.php:61
+#: views/templates/emails/sampleOrder/ast_pro_shipment_tracking-info.php:101
+msgid "Shipped on:"
+msgstr ""
+
+#: views/templates/emails/ast-pro-tpi-email-order-details.php:271
+#: views/templates/emails/chitchats_shipping_shipments.php:57
+#: views/templates/emails/chitchats_shipping_shipments.php:58
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:37
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:38
+#: views/templates/emails/sampleOrder/wc_advanced_shipment_tracking-info.php:98
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:49
+#: views/templates/emails/wc_advanced_shipment_tracking-info.php:110
+#: views/templates/emails/wc_shipment_tracking-info.php:72
+msgid "Track"
+msgstr ""
+
+#: views/templates/emails/chitchats_shipping_shipments.php:18
+#: views/templates/emails/chitchats_shipping_shipments.php:29
+#: views/templates/emails/ph_shipment_tracking_api_manager.php:28
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:17
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:25
+#: views/templates/emails/sampleOrder/ph_shipment_tracking_api_manager.php:28
+#: views/templates/emails/sampleOrder/wc_advanced_shipment_tracking-info.php:76
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:18
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:42
+#: views/templates/emails/wc_advanced_shipment_tracking-info.php:92
+#: views/templates/emails/wc_shipment_tracking-info.php:18
+#: views/templates/emails/wc_shipment_tracking-info.php:60
+msgid "Tracking Number"
+msgstr ""
+
+#: views/templates/emails/chitchats_shipping_shipments.php:19
+#: views/templates/emails/chitchats_shipping_shipments.php:42
+#: views/templates/emails/ph_shipment_tracking_api_manager.php:31
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:18
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:28
+#: views/templates/emails/sampleOrder/ph_shipment_tracking_api_manager.php:31
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:45
+#: views/templates/emails/wc_shipment_tracking-info.php:65
+msgid "Status"
+msgstr ""
+
+#: views/templates/emails/chitchats_shipping_shipments.php:20
+#: views/templates/emails/chitchats_shipping_shipments.php:54
+#: views/templates/emails/fooevents_ticket_details.php:31
+#: views/templates/emails/fooevents_ticket_details.php:42
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:19
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:34
+#: views/templates/emails/sampleOrder/wc_advanced_shipment_tracking-info.php:90
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:19
+#: views/templates/emails/wc_advanced_shipment_tracking-info.php:103
+#: views/templates/emails/wc_shipment_tracking-info.php:19
+msgid "Date"
+msgstr ""
+
+#: views/templates/emails/email-order-details-border-before.php:12
+#: views/templates/emails/email-order-details-border.php:14
+#: views/templates/emails/email-order-details.php:13
+msgid "Cash on delivery"
+msgstr ""
+
+#: views/templates/emails/email-order-details-border-before.php:74
+#: views/templates/emails/email-order-details-border.php:78
+#: views/templates/emails/email-order-details.php:57
+msgid "Our bank details"
+msgstr ""
+
+#: views/templates/emails/email-order-details-border-content.php:147
+#: views/templates/emails/email-order-details-border.php:197
+#: views/templates/emails/email-order-details.php:169
+msgid "Note:"
+msgstr ""
+
+#. translators: %s: Order ID.
+#: views/templates/emails/email-order-details-border-title.php:16
+#: views/templates/emails/email-order-details-border-title.php:21
+#: views/templates/emails/email-order-details-border.php:127
+#: views/templates/emails/email-order-details-border.php:132
+#: views/templates/emails/email-order-details.php:97
+#: views/templates/emails/email-order-details.php:102
+#: views/templates/emails/sampleOrder/email-order-details-border-title.php:14
+#: views/templates/emails/sampleOrder/email-order-details-border.php:19
+#: views/templates/emails/sampleOrder/email-order-details.php:14
+#, php-format
+msgid "[Order #%s]"
+msgstr ""
+
+#: views/templates/emails/email-order-item-download-title.php:11
+msgid "Downloads"
+msgstr ""
+
+#: views/templates/emails/email-order-item-download.php:17
+#: views/templates/emails/email-order-item-download.php:34
+#: views/templates/emails/sampleOrder/email-order-item-download.php:17
+#: views/templates/emails/sampleOrder/email-order-item-download.php:31
+msgid "Expires"
+msgstr ""
+
+#: views/templates/emails/email-order-item-download.php:18
+#: views/templates/emails/email-order-item-download.php:37
+#: views/templates/emails/sampleOrder/email-order-item-download.php:18
+#: views/templates/emails/sampleOrder/email-order-item-download.php:34
+msgid "Download"
+msgstr ""
+
+#: views/templates/emails/email-order-item-download.php:67
+msgid "Never"
+msgstr ""
+
+#: views/templates/emails/email-order-items.php:150
+#: views/templates/emails/email-order-items.php:155
+msgid "Product image"
+msgstr ""
+
+#: views/templates/emails/fooevents_ticket_details.php:34
+#: views/templates/emails/fooevents_ticket_details.php:48
+#: views/templates/emails/fooevents_ticket_details.php:62
+msgid "Start time"
+msgstr ""
+
+#: views/templates/emails/fooevents_ticket_details.php:37
+#: views/templates/emails/fooevents_ticket_details.php:51
+#: views/templates/emails/fooevents_ticket_details.php:65
+msgid "End time"
+msgstr ""
+
+#: views/templates/emails/fooevents_ticket_details.php:58
+msgid "Day "
+msgstr ""
+
+#: views/templates/emails/fooevents_ticket_details.php:71
+msgid "Name"
+msgstr ""
+
+#: views/templates/emails/fooevents_ticket_details.php:72
+msgid "Email"
+msgstr ""
+
+#: views/templates/emails/fooevents_ticket_details.php:74
+msgid "Telephone"
+msgstr ""
+
+#: views/templates/emails/fooevents_ticket_details.php:77
+msgid "Company"
+msgstr ""
+
+#: views/templates/emails/fooevents_ticket_details.php:80
+msgid "Designation"
+msgstr ""
+
+#. translators:  booking options
+#: views/templates/emails/fooevents_ticket_details.php:87
+#: views/templates/emails/fooevents_ticket_details.php:93
+#, php-format
+msgid "Booking %s"
+msgstr ""
+
+#: views/templates/emails/fooevents_ticket_details.php:99
+msgid "Row"
+msgstr ""
+
+#: views/templates/emails/fooevents_ticket_details.php:100
+msgid "Seat"
+msgstr ""
+
+#: views/templates/emails/ph_shipment_tracking_api_manager.php:21
+#: views/templates/emails/sampleOrder/ph_shipment_tracking_api_manager.php:21
+msgid "Tracking No."
+msgstr ""
+
+#: views/templates/emails/ph_shipment_tracking_api_manager.php:22
+#: views/templates/emails/sampleOrder/ph_shipment_tracking_api_manager.php:22
+msgid "Description"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/email-order-details-border-content.php:28
+#: views/templates/emails/sampleOrder/email-order-details.php:37
+msgid "Happy YayCommerce"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/email-order-details-border-content.php:33
+#: views/templates/emails/sampleOrder/email-order-details-border-content.php:41
+#: views/templates/emails/sampleOrder/email-order-details-border-content.php:57
+#: views/templates/emails/sampleOrder/email-order-details-border.php:45
+#: views/templates/emails/sampleOrder/email-order-details-border.php:54
+#: views/templates/emails/sampleOrder/email-order-details-border.php:70
+#: views/templates/emails/sampleOrder/email-order-details.php:43
+#: views/templates/emails/sampleOrder/email-order-details.php:60
+#: views/templates/emails/sampleOrder/email-order-details.php:79
+msgid "£18.00"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/email-order-details-border.php:40
+msgid "Happy YayCommerce2"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/email-order-item-download.php:41
+msgid "Downloadable Product"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/email-order-item-download.php:47
+msgid "Download.doc"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/shipping_tax_shipment_tracking.php:18
+#: views/templates/emails/sampleOrder/wc_advanced_shipment_tracking-info.php:66
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:17
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:28
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:34
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:37
+#: views/templates/emails/shipping_tax_shipment_tracking.php:18
+#: views/templates/emails/wc_advanced_shipment_tracking-info.php:72
+#: views/templates/emails/wc_shipment_tracking-info.php:17
+#: views/templates/emails/wc_shipment_tracking-info.php:33
+#: views/templates/emails/wc_shipment_tracking-info.php:52
+#: views/templates/emails/wc_shipment_tracking-info.php:55
+msgid "Provider"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/shipping_tax_shipment_tracking.php:19
+#: views/templates/emails/shipping_tax_shipment_tracking.php:19
+msgid "Tracking number"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/wc_advanced_shipment_tracking-info.php:72
+#: views/templates/emails/wc_advanced_shipment_tracking-info.php:82
+msgid "Provider Name"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/wc_advanced_shipment_tracking-info.php:73
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:29
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:38
+msgid "yaymail"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/wc_advanced_shipment_tracking-info.php:78
+#: views/templates/emails/sampleOrder/wc_advanced_shipment_tracking-info.php:81
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:43
+msgid "123"
+msgstr ""
+
+#. translators: Version.
+#: views/templates/emails/software_add_on.php:22
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: views/templates/emails/software_add_on.php:27
+msgid "License Email:"
+msgstr ""
+
+#: views/templates/emails/software_add_on.php:28
+msgid "License Key:"
+msgstr ""
+
+#. translators: activations remaining.
+#: views/templates/emails/software_add_on.php:33
+#, php-format
+msgid "%d activations remaining"
+msgstr ""
+
+#: views/templates/emails/wc_shipment_tracking-title.php:12
+msgid "Tracking Information"
+msgstr ""
+
+#: views/templates/emails/yith_barcode.php:21
+msgid "No barcode is available for this element."
+msgstr ""
+
+#. translators: %s: search WooCommerce plugin link
+#: yaymail.php:82
+#, php-format
+msgid ""
+"is enabled but not effective. It requires %1$sWooCommerce%2$s in order to "
+"work."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "YayMail Pro - WooCommerce Email Customizer"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://yaycommerce.com/yaymail-woocommerce-email-customizer/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create awesome transactional emails with a drag and drop email builder"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yaycommerce.com"
+msgstr ""
